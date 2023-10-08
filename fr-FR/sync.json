@@ -1,37 +1,39 @@
 {
 	"buttons": {
-		"chatroom": "Ouvrir le salon de discussion",
-		"help": "Besoin d'aide ?"
+		"chatroom": "Open Chatroom",
+		"help": "Need Help?"
 	},
-	"title": "Syncronization with {name}!",
-	"desc": "Ceci est une commande pour vous permettre de synchroniser vos rôles de {name} à discord. Par exemple votre rôle d'abonnement et votre rôle de modérateur.",
-	"done": "C'est tout ! - Cela peut prendre jusqu'à quelques secondes pour être traité.",
+	"title": "Synchronization with {name}!",
+	"desc": "This is a command to allow you to sync your roles from {name} to discord. For example your subscription role and moderator role.",
+	"done": "That's it! - It may take up to a few seconds to process.",
 	"steps": {
 		"kick": {
-			"0": "Étapes",
-			"1": "Copiez ce code",
-			"2": "Visitez {link} ou cliquez sur le bouton ci-dessous",
-			"3": "Coller le code dans le chat"
+			"0": "Steps",
+			"1": "Copy this code",
+			"2": "Visit {link} or click the button below",
+			"3": "Paste the code in the chat"
 		}
 	},
-	"timeout": "A expiré. Veuillez réessayer.",
-	"success": "You have succesfully syncronized your roles with {name}!",
-	"reset": "You have succesfully reset your account syncronization with {name}!",
-	"error": "Une erreur s'est produite lors de la synchronisation avec {name}. Veuillez réessayer plus tard.",
-	"sync": "Syncronization with {name} is in progress.. Please wait a few seconds up to a few minutes.",
-	"user_not_found": "Nous n'avons pas pu trouver votre compte lié sur {name}.",
-	"missing_perms": "Il me manque des permissions (`ManageRoles`) pour assigner vos rôles. Veuillez contacter un administrateur du serveur.",
-	"role_errors": "Il y a eu une erreur en essayant de synchroniser vos rôles.",
-	"sync_success": "You have succesfully syncronized your roles with {name}!",
-	"fetch_member": "Échec de la récupération du membre Discord.",
-	"added_roles": "Rôles ajoutés",
-	"removed_roles": "Rôles supprimés",
+	"timeout": "Timed out. Please try again.",
+	"success": "You have succesfully synchronized your roles with {name}!",
+	"reset": "You have succesfully reset your account Synchronization with {name}!",
+	"error": "Something went wrong while trying to synchronizewith {name}. Please try again later.",
+	"sync": "Synchronization with {name} is in progress.. Please wait a few seconds up to a few minutes.",
+	"user_not_found": "We could not find your linked account on {name}.",
+	"missing_perms": "I am missing permissions (`ManageRoles`) to assign your roles. Please contact a server administrator.",
+	"role_errors": "There was an error while trying to synchronizeyour roles.",
+	"sync_success": "You have succesfully synchronized your roles with {name}!",
+	"fetch_member": "Failed to fetch Discord member.",
+	"already_connected": "That account is already connected to a Discord account.",
+	"added_roles": "Added Roles",
+	"removed_roles": "Removed Roles",
 	"role_errors_reasons": {
-		"found": "Les rôles avec Id de suivi n'ont pas été trouvés.",
-		"position": "Les rôles suivants sont supérieurs à mon rôle le plus élevé.",
-		"unknown": "Erreur inconnue en essayant d'assigner les rôles suivants."
+		"found": "Roles with folloing Id's were not found.",
+		"position": "Following roles are higher than my highest role.",
+		"position_member": "Following roles are higher than your highest role.",
+		"unknown": "Unknown error while trying to assign following roles."
 	},
-	"vote": "Pour utiliser cette commande, vous devez voter pour le bot sur **Top.gg** en [cliquant ici]({link}).",
+	"vote": "To use this command you are required to vote for the bot on **Top.gg** by [clicking here]({link}).",
 	"bypass_noperms": "Not a fan of voting? You can also try out our **[Premium]({link})** on your server by **[Inviting Me]({invite})** to unlock this command and many more!",
 	"bypass_perms": "Not a fan of voting? Upgrade this server to our **[Premium]({link})** to unlock this command and many more!"
 }
