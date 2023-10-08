@@ -1,0 +1,3 @@
+files:
+  - source: /Main/*.json
+    translation: /%locale%/%original_file_name%
