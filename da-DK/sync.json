@@ -1,0 +1,37 @@
+{
+	"buttons": {
+		"chatroom": "Open Chatroom",
+		"help": "Need Help?"
+	},
+	"title": "Syncronization with {name}!",
+	"desc": "This is a command to allow you to sync your roles from {name} to discord. For example your subscription role and moderator role.",
+	"done": "That's it! - It may take up to a few seconds to process.",
+	"steps": {
+		"kick": {
+			"0": "Steps",
+			"1": "Copy this code",
+			"2": "Visit {link} or click the button below",
+			"3": "Paste the code in the chat"
+		}
+	},
+	"timeout": "Timed out. Please try again.",
+	"success": "You have succesfully syncronized your roles with {name}!",
+	"reset": "You have succesfully reset your account syncronization with {name}!",
+	"error": "Something went wrong while trying to synchronizewith {name}. Please try again later.",
+	"sync": "Syncronization with {name} is in progress.. Please wait a few seconds up to a few minutes.",
+	"user_not_found": "We could not find your linked account on {name}.",
+	"missing_perms": "I am missing permissions (`ManageRoles`) to assign your roles. Please contact a server administrator.",
+	"role_errors": "There was an error while trying to synchronizeyour roles.",
+	"sync_success": "You have succesfully syncronized your roles with {name}!",
+	"fetch_member": "Failed to fetch Discord member.",
+	"added_roles": "Added Roles",
+	"removed_roles": "Removed Roles",
+	"role_errors_reasons": {
+		"found": "Roles with folloing Id's were not found.",
+		"position": "Following roles are higher than my highest role.",
+		"unknown": "Unknown error while trying to assign following roles."
+	},
+	"vote": "To use this command you are required to vote for the bot on **Top.gg** by [clicking here]({link}).",
+	"bypass_noperms": "Not a fan of voting? You can also try out our **[Premium]({link})** on your server by **[Inviting Me]({invite})** to unlock this command and many more!",
+	"bypass_perms": "Not a fan of voting? Upgrade this server to our **[Premium]({link})** to unlock this command and many more!"
+}

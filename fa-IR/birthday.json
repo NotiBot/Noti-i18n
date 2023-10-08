@@ -1,0 +1,11 @@
+{
+	"invalidDate": "تاریخ نامعتبری وارد کرده‌اید، لطفاً از فرمت روز-ماه (روز/ماه) استفاده کنید، مثل 31-12 برای شب سال نو.",
+	"confirm": "تاریخی که شما ارائه داده‌اید **{تاریخ}** است. آیا این درست است؟ به خاطر داشته باشید که شما فقط یک بار می‌توانید تاریخ خود را تغییر دهید.",
+	"success": "با موفقیت تاریخ خود را به {تاریخ} تغییر دادید.",
+	"cancel": "موفقانه تغییر تاریخ شما با موفقیت لغو شد.",
+	"cancelButton": "لغو",
+	"confirmButton": "تأیید کردن",
+	"alreadySet": "شما در حال حاضر تاریخی تنظیم کرده‌اید، اگر می‌خواهید آن را تغییر دهید، به سرور پشتیبانی ما بپیوندید.",
+	"successServer": "Successfully changed birthday channel to {channel}.",
+	"no_premium": "We're sorry, but this command is only available for premium servers. To learn more about premium [click here]({link})."
+}

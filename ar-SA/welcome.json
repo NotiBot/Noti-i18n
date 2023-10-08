@@ -1,0 +1,5 @@
+{
+	"missing_args": "You need to specify either a channel or new message.",
+	"success": "Successfully setup welcome messages.",
+	"reset": "Successfully reset welcome messages."
+}

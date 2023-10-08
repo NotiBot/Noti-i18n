@@ -1,0 +1,37 @@
+{
+	"buttons": {
+		"chatroom": "Ouvrir le salon de discussion",
+		"help": "Besoin d'aide ?"
+	},
+	"title": "Syncronization with {name}!",
+	"desc": "Ceci est une commande pour vous permettre de synchroniser vos rôles de {name} à discord. Par exemple votre rôle d'abonnement et votre rôle de modérateur.",
+	"done": "C'est tout ! - Cela peut prendre jusqu'à quelques secondes pour être traité.",
+	"steps": {
+		"kick": {
+			"0": "Étapes",
+			"1": "Copiez ce code",
+			"2": "Visitez {link} ou cliquez sur le bouton ci-dessous",
+			"3": "Coller le code dans le chat"
+		}
+	},
+	"timeout": "A expiré. Veuillez réessayer.",
+	"success": "You have succesfully syncronized your roles with {name}!",
+	"reset": "You have succesfully reset your account syncronization with {name}!",
+	"error": "Une erreur s'est produite lors de la synchronisation avec {name}. Veuillez réessayer plus tard.",
+	"sync": "Syncronization with {name} is in progress.. Please wait a few seconds up to a few minutes.",
+	"user_not_found": "Nous n'avons pas pu trouver votre compte lié sur {name}.",
+	"missing_perms": "Il me manque des permissions (`ManageRoles`) pour assigner vos rôles. Veuillez contacter un administrateur du serveur.",
+	"role_errors": "Il y a eu une erreur en essayant de synchroniser vos rôles.",
+	"sync_success": "You have succesfully syncronized your roles with {name}!",
+	"fetch_member": "Échec de la récupération du membre Discord.",
+	"added_roles": "Rôles ajoutés",
+	"removed_roles": "Rôles supprimés",
+	"role_errors_reasons": {
+		"found": "Les rôles avec Id de suivi n'ont pas été trouvés.",
+		"position": "Les rôles suivants sont supérieurs à mon rôle le plus élevé.",
+		"unknown": "Erreur inconnue en essayant d'assigner les rôles suivants."
+	},
+	"vote": "Pour utiliser cette commande, vous devez voter pour le bot sur **Top.gg** en [cliquant ici]({link}).",
+	"bypass_noperms": "Not a fan of voting? You can also try out our **[Premium]({link})** on your server by **[Inviting Me]({invite})** to unlock this command and many more!",
+	"bypass_perms": "Not a fan of voting? Upgrade this server to our **[Premium]({link})** to unlock this command and many more!"
+}

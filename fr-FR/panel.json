@@ -1,0 +1,23 @@
+{
+	"invalid_channel": "Le salon doit être textuel.",
+	"invalid_permissions": "Il me manque les autorisations suivantes : {permissions}.",
+	"success": "Panneau envoyé avec succès à {channel}.",
+	"invalid_username": "Je n'ai pas pu trouver {user} sur {platform}.",
+	"failed_lb": "Échec du chargement du classement.",
+	"messages": {
+		"sync": {
+			"title": "Account Syncronization",
+			"description": "Pour garantir une expérience fluide sur notre serveur, nous avons mis en place un système de liaison de compte et de synchronisation des rôles entre Kick et Discord. Veuillez utiliser les boutons ci-dessous pour lier votre compte.\n\n> **Note:** Si vous avez déjà lié votre compte, vous pouvez le désynchroniser en utilisant {command}.",
+			"button1": "Syncronize",
+			"button2": "Besoin d'aide ?"
+		},
+		"leaderboard": {
+			"weekly": "Hebdomadaire",
+			"monthly": "Mensuel",
+			"overall": "Globale",
+			"author": "Classement des abonnements offerts",
+			"last_updated": "Dernière mise à jour",
+			"watch": "Regarde {user} sûr {platform}!"
+		}
+	}
+}

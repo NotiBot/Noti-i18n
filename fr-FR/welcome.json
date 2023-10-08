@@ -1,0 +1,5 @@
+{
+	"missing_args": "Vous devez spécifier un salon ou un nouveau message.",
+	"success": "Les messages de bienvenue sont configurés avec succès.",
+	"reset": "Les messages de bienvenue ont été réinitialisés avec succès."
+}

@@ -1,0 +1,16 @@
+{
+	"invalid_streamer": "Le streamer que vous avez saisi n'est pas valide. Merci de réessayer.",
+	"failed_leaderboard": "Échec du chargement du classement. Veuillez réessayer.",
+	"title": "Classement des Abonnements Offerts d'{user}",
+	"timeout": "Délai expiré. Veuillez réessayer.",
+	"footer": "Pour les mises à jour en direct, utilisez « /panel leaderboard » dans votre chat  !",
+	"fields": {
+		"overall": "Globale",
+		"weekly": "Hebdomadaire",
+		"monthly": "Mensuel"
+	},
+	"buttons": {
+		"watch": "Regarde {user} sûr {platform}!"
+	},
+	"gifts": "Cadeaux"
+}
