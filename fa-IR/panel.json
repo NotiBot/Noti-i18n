@@ -6,9 +6,9 @@
 	"failed_lb": "Failed to load leaderboard.",
 	"messages": {
 		"sync": {
-			"title": "Account Syncronization",
+			"title": "Account Synchronization",
 			"description": "To ensure a seamless experience on our server, we have implemented an account linking system and role synchronization between {platform} and Discord. Please use the buttons below to link your account.\n\n> **Note:** If you have already linked your account, you can unlink it by using {command}.",
-			"button1": "Syncronize",
+			"button1": "Synchronize",
 			"button2": "Need Help?"
 		},
 		"leaderboard": {
