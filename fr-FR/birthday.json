@@ -1,11 +1,11 @@
 {
-	"invalidDate": "Vous avez fourni une date non valide, veuillez utiliser le format DD-MM, comme 31-12 pour la veille du Nouvel An.",
-	"confirm": "La date que vous avez fournie est **{date}**. Est-ce correct ? N'oubliez pas que vous ne pouvez changer votre date qu'une seule fois.",
-	"success": "La date a été changée avec succès en **{date}**.",
-	"cancel": "Vous avez annulé votre changement de date avec succès.",
-	"cancelButton": "Annuler",
-	"confirmButton": "Confirmer",
-	"alreadySet": "Vous avez déjà une date définie, rejoignez notre [serveur de support]({supportServer}) si vous souhaitez la modifier.",
-	"successServer": "Le salon d'anniversaire a été changé avec succès pour {channel}.",
-	"no_premium": "Nous sommes désolés, mais cette commande n'est disponible que pour les serveurs premium. Pour en savoir plus sur premium [cliquez ici]({link})."
+	"invalidDate": "You provided an invalid date, please use the format DD-MM, like 31-12 for New Year's Eve.",
+	"confirm": "Date you provided is **{date}**. Is this correct? Have in mind that you can only change your date once.",
+	"success": "Successfully changed your date to **{date}**.",
+	"cancel": "Successfully cancelled your date change.",
+	"cancelButton": "Cancel",
+	"confirmButton": "Confirm",
+	"alreadySet": "You already have a date set, join our [support server]({supportServer}) if you want to change it.",
+	"successServer": "Successfully changed birthday channel to {channel}.",
+	"no_premium": "We're sorry, but this command is only available for premium servers. To learn more about premium [click here]({link})."
 }

@@ -1,16 +1,16 @@
 {
-	"invalid_streamer": "Le streamer que vous avez saisi n'est pas valide. Merci de réessayer.",
-	"failed_leaderboard": "Échec du chargement du classement. Veuillez réessayer.",
-	"title": "Classement des Abonnements Offerts d'{user}",
-	"timeout": "Délai expiré. Veuillez réessayer.",
-	"footer": "Pour les mises à jour en direct, utilisez « /panel leaderboard » dans votre chat  !",
+	"invalid_streamer": "The streamer you entered is invalid. Please try again.",
+	"failed_leaderboard": "Failed to load leaderboard. Please try again.",
+	"title": "{user}'s Gifted Subscribers Leaderboards",
+	"timeout": "Timed out. Please try again.",
+	"footer": "For live updates, use /panel leaderboard in your chat!",
 	"fields": {
-		"overall": "Globale",
-		"weekly": "Hebdomadaire",
-		"monthly": "Mensuel"
+		"overall": "Overall",
+		"weekly": "Weekly",
+		"monthly": "Monthly"
 	},
 	"buttons": {
-		"watch": "Regarde {user} sûr {platform}!"
+		"watch": "Watch {user} on Kick.com!"
 	},
-	"gifts": "Cadeaux"
+	"gifts": "Gifts"
 }

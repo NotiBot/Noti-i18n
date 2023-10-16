@@ -1,15 +1,15 @@
 {
-	"title": "Aide",
-	"description": "Noti est un bot Discord qui envoie des notifications à votre serveur quand un streamer passe en direct sur Kick. C'est facile et gratuit !",
-	"text": "Vous êtes fan de recevoir des notifications ? Ne manquez rien en invitant notre bot sur votre serveur ! Vivez une communauté exaltante, participez à des discussions captivantes et faites des explosions. Il vous suffit de cliquer sur le bouton d'invitation et d'insuffler à votre propre serveur d'enchantement !",
+	"title": "Help",
+	"description": "Noti is a Discord bot that sends notifications to your server when a user goes live on Kick. It's easy to use and free!",
+	"text": "Are you a fan of getting notifications? Don't miss out on anything by inviting our bot to your server! Experience an exhilarating community, participate in captivating discussions, and have a blast. Simply click the invite button and infuse your own server with enchantment!",
 	"buttons": {
-		"invite": "Inviter Noti",
-		"support": "Serveur d'Aide",
-		"vote": "Votez pour Noti"
+		"invite": "Invite Noti",
+		"support": "Support Server",
+		"vote": "Vote for Noti"
 	},
 	"fields": {
-		"commands": "Commandes",
-		"invite": "Invitez Noti à votre serveur",
-		"links": "Liens"
+		"commands": "Commands",
+		"invite": "Invite Noti to your server",
+		"links": "Links"
 	}
 }
