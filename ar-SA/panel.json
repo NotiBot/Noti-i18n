@@ -1,4 +1,7 @@
 {
+	"noContextMenu": "This command can't be a context menu.",
+	"noServer": "There was an error while trying to get the server.",
+	"notEnabled": "This feature is not enabled for your server.",
 	"invalid_channel": "Channel should be text based.",
 	"invalid_permissions": "I am missing the following permissions: {permissions}.",
 	"success": "Successfully sent panel to {channel}.",
