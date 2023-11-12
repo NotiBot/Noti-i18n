@@ -1,4 +1,5 @@
 {
+	"noContextMenu": "This command can't be a context menu.",
 	"username": "Username",
 	"userid": "User ID",
 	"accentcolor": "Accent Color",
