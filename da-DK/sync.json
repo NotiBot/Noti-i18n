@@ -1,4 +1,6 @@
 {
+	"noContextMenu": "This command can't be a context menu.",
+	"noServer": "Couldn't find this server in our database.",
 	"buttons": {
 		"chatroom": "Open Chatroom",
 		"help": "Need Help?"
