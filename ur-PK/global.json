@@ -1,4 +1,5 @@
 {
+	"noContextMenu": "This command can't be a context menu.",
 	"error": "An error occurred while executing this command.",
 	"interaction_timeout": "The interaction timed out.",
 	"no_premium": "We're sorry, but this command is only available for premium servers. To learn more about premium [click here]({link}).",
