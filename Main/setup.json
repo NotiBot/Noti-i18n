@@ -1,4 +1,7 @@
 {
+	"noContextMenu": "This command can't be a context menu.",
+	"notEnabled": "This feature is not enabled for your server.",
+	"notEnabledPingRole": "Ping role feature is not enabled for your server.",
 	"invalid_streamer":"Streamer you provided could not be found.",
 	"invalid_streamer_missing": "You have to provide some of additional arguments.",
 	"kick_streamer_setup":"Successfully setup {streamer}!",
@@ -9,8 +12,10 @@
 	"invalid_live_role":"Live role you provided is above my role or I am missing permissions to manage it.",
 	"invalid_clip_channel_permissions":"I am missing permissions to send messages in the clip channel you provided.",
 	"kick_streamer_reset":"Successfully reset {streamer}!",
+	"failed_to_fetch": "There was an error while trying to load the client.",
 	"stats_channel_setup": "Hello! This setting has been moved to the dashboard. [Click here]({link}) to go to the dashboard.",
 	"too_much_kick_streamers":"You have reached the maximum amount of streamers you can setup which is {max}.",
+	"too_much_kick_streamers_per_platform":"You have reached the maximum amount of streamers you can setup per platform which is {max}.",
 	"missing_manage_permissions":"I am missing permissions to manage channels and/or roles.",
 	"kick_streamer_stats_channel":"Successfully set stats channel for {streamer}!",
 	"kick_streamer_view_title":"Kick Streamers",

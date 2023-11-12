@@ -1,4 +1,6 @@
 {
+	"notEnabled": "This feature is not enabled for this server.",
+	"noContextMenu": "This command can't be a context menu.",
 	"not_registered": "This command is not registered.",
 	"missing_permission": "{who} don't have permission to use this command.",
 	"missing_permission_list": "Missing permissions: {list}",
