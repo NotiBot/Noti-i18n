@@ -1,4 +1,5 @@
 {
+	"noContextMenu": "This command can't be a context menu.",
 	"invalidDate": "You provided an invalid date, please use the format DD-MM, like 31-12 for New Year's Eve.",
 	"confirm": "Date you provided is **{date}**. Is this correct? Have in mind that you can only change your date once.",
 	"success": "Successfully changed your date to **{date}**.",
@@ -7,5 +8,9 @@
 	"confirmButton": "Confirm",
 	"alreadySet": "You already have a date set, join our [support server]({supportServer}) if you want to change it.",
 	"successServer": "Successfully changed birthday channel to {channel}.",
-	"no_premium": "We're sorry, but this command is only available for premium servers. To learn more about premium [click here]({link})."
+	"no_premium": "We're sorry, but this command is only available for premium servers. To learn more about premium [click here]({link}).",
+	"notSet": "You don't have a date set.",
+	"successCongratulate": "You will now be congratulated on your birthday in this server.",
+	"successNotCongratulate": "You will no longer be congratulated on your birthday in this server.",
+	"notSetup": "This server doesn't have a birthday channel set."
 }
