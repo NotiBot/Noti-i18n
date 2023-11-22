@@ -19,6 +19,7 @@
 	"missing_manage_permissions": "I am missing permissions to manage channels and/or roles.",
 	"kick_streamer_stats_channel": "Successfully set stats channel for {streamer}!",
 	"kick_streamer_view_title": "Kick Streamers",
+	"failed_to_find_streamer": "Failed to find streamer in database.",
 	"failed_to_create": "Failed to create streamer entry in database.",
 	"click_here": "Click Here",
 	"response_exited": "Successfully exited the menu.",
