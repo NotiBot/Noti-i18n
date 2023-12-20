@@ -1,0 +1,27 @@
+{
+	"noTier": "Seems like this tier/plan does not exist anymore? Please contact support.",
+	"noPermission": "You do not have permission to access this page.",
+	"noClient": "There was an error loading the client.",
+	"manage": "Manage Subscriptions",
+	"buy": "Try out Premium!",
+	"buy_message": "To learn more about Premium, please visit our [website]({link}).",
+	"server_title": "Server Subscription",
+	"user_title": "User Subscription",
+	"server_description": "This server [{enabled}, is subscribed to Premium., is not subscribed to Premium.] And currently has {con} connections.",
+	"user_description": "You [{enabled}, are subscribed to Premium., are not subscribed to Premium.]",
+	"fields": {
+		"plan": "Plan Information",
+		"features": "Available Features"	
+	},
+	"footer_premium": "Thank you for supporting Noti!",
+	"footer_free": "Upgrade to Premium to unlock more features!",
+	"noTarget": "Please specify a target server ID.",
+	"alreadyOne": "You have already added premium to a server.",
+	"cooldown": "You are on cooldown, try in  {time}.",
+	"noGuild": "Could not find a server with that ID.",
+	"alreadyPremium": "This server is already premium.",
+	"success": "You have successfully added premium to {guild}.",
+	"removed": "You have successfully removed premium from {guild}.",
+	"noOne": "You have not added premium to any server."
+
+}
