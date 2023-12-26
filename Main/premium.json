@@ -1,13 +1,14 @@
 {
-	"noTier": "Seems like this tier/plan does not exist anymore? Please contact support.",
+	"noTier": "Seems like this tier/plan does not exist anymore? Please contact support. (Tier: {tier})",
 	"noPermission": "You do not have permission to access this page.",
+	"noPerks": "You do not have server premium feature enabled.",
 	"noClient": "There was an error loading the client.",
 	"manage": "Manage Subscriptions",
 	"buy": "Try out Premium!",
 	"buy_message": "To learn more about Premium, please visit our [website]({link}).",
 	"server_title": "Server Subscription",
 	"user_title": "User Subscription",
-	"server_description": "This server [{enabled}, is subscribed to Premium., is not subscribed to Premium.] And currently has {con} connections.",
+	"server_description": "This server [{enabled}, is subscribed to Premium., is not subscribed to Premium.]\nAnd maximum of {con} concurrent streamer connections.",
 	"user_description": "You [{enabled}, are subscribed to Premium., are not subscribed to Premium.]",
 	"fields": {
 		"plan": "Plan Information",
@@ -18,10 +19,17 @@
 	"noTarget": "Please specify a target server ID.",
 	"alreadyOne": "You have already added premium to a server.",
 	"cooldown": "You are on cooldown, try in  {time}.",
+	"noYourGuild": "Server that you added premium to could not be found.",
+	"noYourGuildDB": "Server that you added premium to could not be found in the database.",
 	"noGuild": "Could not find a server with that ID.",
+	"noGuildDB": "Could not find a server with that ID in the database.",
 	"alreadyPremium": "This server is already premium.",
 	"success": "You have successfully added premium to {guild}.",
 	"removed": "You have successfully removed premium from {guild}.",
-	"noOne": "You have not added premium to any server."
-
+	"noOne": "You have not added premium to any server.",
+	"removing": "Are you sure you want to remove premium from **{from}** and add it to **{to}**?",
+	"adding": "Are you sure you want to add premium to **{guild}**?",
+	"confirmButton": "Yes",
+	"cancelButton": "No",
+	"cancel": "Cancelled."
 }
