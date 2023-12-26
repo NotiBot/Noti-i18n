@@ -1,9 +1,15 @@
 {
 	"noContextMenu": "This command can't be a context menu.",
 	"username": "Username",
+	"premium": "Premium",
+	"enabled": "enabled",
+	"disabled": "disabled",
 	"userid": "User ID",
 	"accentcolor": "Accent Color",
 	"bot": "Bot",
+	"tier": "Tier",
 	"system": "System",
-	"createdat": "Created At"
+	"createdat": "Created At",
+	"notFound": "Could not find this user.",
+	"notFoundDB": "This user is not in the database."
 }
