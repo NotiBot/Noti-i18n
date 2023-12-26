@@ -6,7 +6,9 @@
 	"buttons": {
 		"invite": "Invite Noti",
 		"support": "Support Server",
-		"vote": "Vote for Noti"
+		"vote": "Vote for Noti",
+		"dashboard": "Visit Dashboard",
+		"premium": "Try out Premium"
 	},
 	"fields": {
 		"commands": "Commands",
