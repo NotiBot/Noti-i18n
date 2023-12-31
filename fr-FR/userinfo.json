@@ -5,6 +5,7 @@
 	"enabled": "enabled",
 	"disabled": "disabled",
 	"userid": "User ID",
+	"noFreePlan": "Failed to find free plan on user creation.",
 	"accentcolor": "Accent Color",
 	"bot": "Bot",
 	"tier": "Tier",
