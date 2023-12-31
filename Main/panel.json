@@ -8,6 +8,7 @@
 	"success": "Successfully sent panel to {channel}.",
 	"invalid_username": "I couldn't find {user} on {platform}.",
 	"failed_lb": "Failed to load leaderboard.",
+	"noFreePlan": "Failed to find free plan on server creation.",
 
 	"messages": {
 		"sync": {
