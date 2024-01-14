@@ -1,5 +1,5 @@
 {
-	"noTier": "Seems like this tier/plan does not exist anymore? Please contact support. (Tier: {tier})",
+	"noTier": "Seems like {which} tier/plan does not exist anymore? Please contact support. (Tier: {tier})",
 	"noPermission": "You do not have permission to access this page.",
 	"noPerks": "You do not have server premium feature enabled.",
 	"noClient": "There was an error loading the client.",
