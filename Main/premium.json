@@ -32,5 +32,6 @@
 	"onlyRemove": "Are you sure you want to remove premium from **{guild}**?",
 	"confirmButton": "Yes",
 	"cancelButton": "No",
-	"cancel": "Cancelled."
+	"cancel": "Cancelled.",
+	"notPremium": "That server does not have premium? Somehow?"
 }
