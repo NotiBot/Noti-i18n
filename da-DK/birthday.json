@@ -1,5 +1,5 @@
 {
-	"invalidDate": "You provided an invalid date, please use the format DD-MM, like 31-12 for New Year's Eve.",
+	"invalidDate": "You provided an invalid date, please use the format MM/DD, like 12/31 for New Year's Eve.",
 	"confirm": "Date you provided is **{date}**. Is this correct? Have in mind that you can only change your date once.",
 	"success": "Successfully changed your date to **{date}**.",
 	"cancel": "Successfully cancelled your date change.",
