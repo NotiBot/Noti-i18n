@@ -1,4 +1,6 @@
 {
+	"noContextMenu": "This command can't be a context menu.",
+	"noServer": "Couldn't find this server in our database.",
 	"buttons": {
 		"chatroom": "Open Chatroom",
 		"help": "Need Help?"
@@ -35,5 +37,6 @@
 	},
 	"vote": "To use this command you are required to vote for the bot on **Top.gg** by [clicking here]({link}).",
 	"bypass_noperms": "Not a fan of voting? You can also try out our **[Premium]({link})** on your server by **[Inviting Me]({invite})** to unlock this command and many more!",
-	"bypass_perms": "Not a fan of voting? Upgrade this server to our **[Premium]({link})** to unlock this command and many more!"
+	"bypass_perms": "Not a fan of voting? Upgrade this server to our **[Premium]({link})** to unlock this command and many more!",
+	"noFreePlan": "Failed to find free plan on server creation."
 }

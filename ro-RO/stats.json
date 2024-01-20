@@ -1,4 +1,5 @@
 {
+	"noContextMenu": "This command can't be a context menu.",
 	"title": "Stats",
 	"description": "Some of our statistics displayed below.",
 	"server": "Server Stats",

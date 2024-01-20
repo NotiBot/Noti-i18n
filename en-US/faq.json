@@ -1,4 +1,5 @@
 {
+	"noContextMenu": "This command can't be a context menu.",
 	"no_results": {
 		"title": "Noti FAQ Form",
 		"label": "What is your question?",
