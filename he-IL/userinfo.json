@@ -12,5 +12,9 @@
 	"system": "System",
 	"createdat": "Created At",
 	"notFound": "Could not find this user.",
-	"notFoundDB": "This user is not in the database."
+	"notFoundDB": "This user is not in the database.",
+	"notFoundDBYou": "There was an error while trying to find you in the database.",
+	"accounts": "Linked Accounts",
+	"serverPremium": "Used Server Premium",
+	"bitfield": "Bitfield"
 }
