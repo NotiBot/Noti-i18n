@@ -33,7 +33,8 @@
 		"found": "Roles with folloing Id's were not found.",
 		"position": "Following roles are higher than my highest role.",
 		"position_member": "Following roles are higher than your highest role.",
-		"unknown": "Unknown error while trying to assign following roles."
+		"unknown": "Unknown error while trying to assign following roles.",
+		"managed": "I cannot manage following roles."
 	},
 	"vote": "To use this command you are required to vote for the bot on **Top.gg** by [clicking here]({link}).",
 	"bypass_noperms": "Not a fan of voting? You can also try out our **[Premium]({link})** on your server by **[Inviting Me]({invite})** to unlock this command and many more!",
