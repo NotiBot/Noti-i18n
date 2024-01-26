@@ -17,7 +17,7 @@
 		}
 	},
 	"timeout": "Timed out. Please try again.",
-	"success": "You have succesfully synchronized your roles with {name}!",
+	"success": "You have succesfully connected your account with {name}!",
 	"reset": "You have succesfully reset your account Synchronization with {name}!",
 	"error": "Something went wrong while trying to synchronizewith {name}. Please try again later.",
 	"sync": "Synchronization with {name} is in progress.. Please wait a few seconds up to a few minutes.",
