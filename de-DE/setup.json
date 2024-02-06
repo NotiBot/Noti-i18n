@@ -31,5 +31,6 @@
 	"notification_sent": "Notification has been sent.",
 	"no_premium": "We're sorry, but to use the following features you need to have premium: ({features}). To learn more about premium [click here]({link}).",
 	"view_title": "Configuration",
-	"kick_streamer_view_description": "Select one from dropdown for more info."
+	"kick_streamer_view_description": "Select one from dropdown for more info.",
+	"invalid_premium_tier": "Invalid premium tier."
 }
