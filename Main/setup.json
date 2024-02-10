@@ -33,5 +33,6 @@
 
 	"view_title": "Configuration",
 	"kick_streamer_view_description": "Select one from dropdown for more info.",
-	"invalid_premium_tier": "Invalid premium tier."
+	"invalid_premium_tier": "Invalid premium tier.",
+	"already_exists": "Streamer already exists."
 }
