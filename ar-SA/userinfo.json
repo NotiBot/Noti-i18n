@@ -16,5 +16,6 @@
 	"notFoundDBYou": "There was an error while trying to find you in the database.",
 	"accounts": "Linked Accounts",
 	"serverPremium": "Used Server Premium",
-	"bitfield": "Bitfield"
+	"bitfield": "Bitfield",
+	"birthday": "Birthday"
 }
