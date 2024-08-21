@@ -1,6 +1,4 @@
 {
-	"server": "Server",
-	"notfound": "User not found.",
 	"noContextMenu": "This command can't be a context menu.",
 	"username": "Username",
 	"premium": "Premium",
@@ -19,5 +17,7 @@
 	"accounts": "Linked Accounts",
 	"serverPremium": "Used Server Premium",
 	"bitfield": "Bitfield",
-	"birthday": "Birthday"
+	"birthday": "Birthday",
+	"server": "Server",
+	"notfound": "User not found."
 }
