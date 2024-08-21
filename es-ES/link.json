@@ -1,0 +1,38 @@
+{
+	"noContextMenu": "This command can't be a context menu.",
+	"noServer": "Couldn't find this server in our database.",
+	"buttons": {
+		"chatroom": "Open Chatroom",
+		"help": "Need Help?",
+		"confirm": "Confirm Account"
+	},
+	"title": "Linking with {name}!",
+	"desc": "This is a command to allow you to link your {name} account with discord.",
+	"done": "That's it! - It may take up to a few seconds to process.",
+	"steps": {
+		"kick": {
+			"0": "Steps",
+			"1": "Copy this code",
+			"2": "Visit {link} or click the button below",
+			"3": "Paste the code in the chat"
+		},
+		"rumble": {
+			"0": "Steps",
+			"1": "Visit {link} and copy the API url",
+			"2": "Click the button below and paste the API url"
+		}
+	},
+	"timeout": "Timed out. Please try again.",
+	"success": "You have succesfully connected your account with {name}!",
+	"success_user": "Succesfully connected {user} account with {name}!",
+	"reset": "You have succesfully reset your account Synchronization with {name}!",
+	"error": "Something went wrong while trying to link {name}. Please try again later.",
+	"user_not_found_db": "We could not find a user in our database with that ID.",
+	"failed_to_fetch": "Failed to fetch data from {name}.",
+	"user_not_found": "We could not find your linked account on {name}.",
+	"already_connected": "That account is already connected to a Discord account.",
+	"twitch": "To synchronize your Twitch account, please visit [this link]({link}) and follow the instructions.",
+	"invalid_url": "Invalid URL. Please make sure you are using the correct URL.",
+	"already_linked": "This account is already linked with {name}.",
+	"not_found": "Available socials are {socials}."
+}
