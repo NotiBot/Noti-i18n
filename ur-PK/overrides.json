@@ -1,0 +1,14 @@
+{
+	"noContextMenu": "This command can't be a context menu.",
+	"noOverrides": "No overrides setup.",
+	"noPermission": "You don't have Override Notifications feature enabled.",
+	"dontPublish": "Don't Audo Publish",
+	"cancel": "Cancel Notification",
+	"all": "All",
+	"overrides": "Overrides",
+	"priorityTaken": "Override with such priority already exists.",
+	"overrideSet": "Override successfully configured.",
+	"chooseApplyTo": "Choose what platforms to apply this override to.",
+	"noOverride": "No override with such priority.",
+	"overrideRemoved": "Override successfully removed."
+}
