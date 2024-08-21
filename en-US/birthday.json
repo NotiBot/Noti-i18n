@@ -7,7 +7,7 @@
 	"cancelButton": "Cancel",
 	"confirmButton": "Confirm",
 	"alreadySet": "You already have a date set, join our [support server]({supportServer}) if you want to change it.",
-	"successServer": "Successfully changed birthday channel to {channel}.",
+	"successServer": "Successfully setup birthday congratulations in {channel}, and the role {role} will be given on someone's birthday.",
 	"no_premium": "We're sorry, but this command is only available for premium servers. To learn more about premium [click here]({link}).",
 	"notSet": "You don't have a date set.",
 	"successCongratulate": "You will now be congratulated on your birthday in this server.",

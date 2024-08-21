@@ -21,5 +21,10 @@
 
 	"faq_ignore": "Successfully ignored the question.",
 	"faq_answer_sent": "Successfully sent the answer.",
-	"faq_added": "Successfully added the question and answer."
+	"faq_added": "Successfully added the question and answer.",
+
+	"error_clear_wrong_server": "You can't clear the errors of another server.",
+	"errors_cleared": "Successfully cleared the errors.",
+
+	"dev_only": "This command is only available for developers."
 }

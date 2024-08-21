@@ -13,6 +13,8 @@
 	"invalid_clip_channel_permissions": "I am missing permissions to send messages in the clip channel you provided.",
 	"kick_streamer_reset": "Successfully reset {streamer}!",
 	"failed_to_fetch": "There was an error while trying to load the client.",
+	"invalid_rumble_type": "Invalid rumble type.",
+	"invalid_rumble_url": "Invalid rumble URL.",
 	"stats_channel_setup": "Hello! This setting has been moved to the dashboard. [Click here]({link}) to go to the dashboard.",
 	"too_much_kick_streamers": "You have reached the maximum amount of streamers you can setup which is {max}.",
 	"too_much_kick_streamers_per_platform": "You have reached the maximum amount of streamers you can setup per platform which is {max}.",
@@ -31,5 +33,10 @@
 	"notification_sent": "Notification has been sent.",
 	"no_premium": "We're sorry, but to use the following features you need to have premium: ({features}). To learn more about premium [click here]({link}).",
 	"view_title": "Configuration",
-	"kick_streamer_view_description": "Select one from dropdown for more info."
+	"kick_streamer_view_description": "Select one from dropdown for more info.",
+	"invalid_premium_tier": "Invalid premium tier.",
+	"already_exists": "Streamer already exists.",
+	"private_account": "Streamer has a private account.",
+	"test_notification_sent": "Test notification has been sent.",
+	"invalid_type": "Invalid type."
 }
