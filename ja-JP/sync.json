@@ -1,0 +1,33 @@
+{
+	"noContextMenu": "This command can't be a context menu.",
+	"noServer": "Couldn't find this server in our database.",
+	"sync": "Synchronization with {name} is in progress.. Please wait a few seconds up to a few minutes.",
+	"missing_perms": "I am missing permissions (`ManageRoles`) to assign your roles. Please contact a server administrator.",
+	"role_errors": "There was an error while trying to synchronizeyour roles.",
+	"sync_success": "You have succesfully synchronized your roles with {name}!",
+	"sync_success_force": "Succesfully synchronized roles with {name}!",
+	"fetch_member": "Failed to fetch Discord member.",
+	"added_roles": "Added Roles",
+	"removed_roles": "Removed Roles",
+	"role_errors_reasons": {
+		"found": "Roles with folloing Id's were not found.",
+		"position": "Following roles are higher than my highest role.",
+		"position_member": "Following roles are higher than your highest role.",
+		"unknown": "Unknown error while trying to assign following roles.",
+		"managed": "I cannot manage following roles."
+	},
+	"vote": "To use this command you are required to vote for the bot on **Top.gg** by [clicking here]({link}).",
+	"bypass_noperms": "Not a fan of voting? You can also try out our **[Premium Plus]({link})** on your server by **[Inviting Me]({invite})** to unlock this command and many more!",
+	"bypass_perms": "Not a fan of voting? Upgrade this server to our **[Premium Plus]({link})** to unlock this command and many more!",
+	"noFreePlan": "Failed to find free plan on server creation.",
+	"unknown": "Platform you are trying to synchronize with is not supported.",
+	"useLink": "You don't have an account linked with {name}. Please use the {cmd} command to link your account.",
+	"noAccount": "That user doesn't have an account linked with {name}.",
+	"cant_use_redirect": "Cannot redirect to link if target and current dont match.",
+	"no_perms": "You don't have permissions to use force sync.",
+	"no_self": "You can't force sync your own roles, just use normal sync.",
+	"noUser": "Couldn't find this user in our database.",
+	"noMember": "Couldn't get that member's info for this server.",
+	"whatPlatform": "What platform do you want to force sync this user with?",
+	"selectPlatform": "Select a platform.."
+}
