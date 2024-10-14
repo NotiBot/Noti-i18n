@@ -1,8 +1,8 @@
 {
-	"notEnabled": "This feature is not enabled for your server.",
-	"noContextMenu": "This command can't be a context menu.",
-	"missing_args": "You need to specify either a channel or new message.",
-	"success": "Successfully setup welcome messages.",
-	"reset": "Successfully reset welcome messages.",
-	"noFreePlan": "Failed to find free plan on server creation."
+	"notEnabled": "תכונה זו אינה זמינה עבור השרת שלך.",
+	"noContextMenu": "פקודה זו אינה יכולה להיות תפריט הקשר.",
+	"missing_args": "עליך לציין ערוץ או הודעה חדשה.",
+	"success": "הגדרת הודעות ברוכים הבאים בהצלחה.",
+	"reset": "הודעות ברוכים הבאים אופסו בהצלחה.",
+	"noFreePlan": "נכשלה בקשה למצוא תוכנית חינמית בעת יצירת השרת."
 }
