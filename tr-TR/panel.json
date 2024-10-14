@@ -1,27 +1,27 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"noServer": "There was an error while trying to get the server.",
-	"notEnabled": "This feature is not enabled for your server.",
-	"invalid_channel": "Channel should be text based.",
-	"invalid_permissions": "I am missing the following permissions: {permissions}.",
-	"success": "Successfully sent panel to {channel}.",
-	"invalid_username": "I couldn't find {user} on {platform}.",
-	"failed_lb": "Failed to load leaderboard.",
-	"noFreePlan": "Failed to find free plan on server creation.",
+	"noContextMenu": "Bu komut bir bağlam menüsü olamaz.",
+	"noServer": "Sunucuyu alırken bir hata oluştu.",
+	"notEnabled": "Bu özellik sunucunuz için etkinleştirilmemiş.",
+	"invalid_channel": "Kanal metin tabanlı olmalıdır.",
+	"invalid_permissions": "Şu izinler eksik: {permissions}.",
+	"success": "Panel başarıyla {channel}'e gönderildi.",
+	"invalid_username": "{user}'i {platform}'da bulamadım.",
+	"failed_lb": "Lider tablosu yüklenemedi.",
+	"noFreePlan": "Sunucu oluşturma sırasında ücretsiz plan bulunamadı.",
 	"messages": {
 		"sync": {
-			"title": "Account Synchronization",
-			"description": "To ensure a seamless experience on our server, we have implemented an account linking system and role synchronization between {platform} and Discord. Please use the buttons below to link your account.\n\n> **Note:** If you have already linked your account, you can unlink it by using {command}.",
-			"button1": "Synchronize",
-			"button2": "Need Help?"
+			"title": "Hesap Senkronizasyonu",
+			"description": "Sunucumuzda sorunsuz bir deneyim sağlamak için {platform} ve Discord arasında bir hesap bağlama sistemi ve rol senkronizasyonu uyguladık. Hesabınızı bağlamak için aşağıdaki düğmeleri kullanın.\n\n> **Not:** Hesabınızı zaten bağladıysanız, {command} kullanarak bağlantıyı kaldırabilirsiniz.",
+			"button1": "Senkronize",
+			"button2": "Yardım lazım mı?"
 		},
 		"leaderboard": {
-			"weekly": "Weekly",
-			"monthly": "Monthly",
-			"overall": "Overall",
-			"author": "Gifted Subscribers Leaderboards",
-			"last_updated": "Last Updated",
-			"watch": "Watch {user} on {platform}!"
+			"weekly": "Haftalık",
+			"monthly": "Aylık",
+			"overall": "Genel",
+			"author": "Bağışlanan Aboneler Lider Tablosu",
+			"last_updated": "Son Güncelleme",
+			"watch": "{user}'i {platform}'da izle!"
 		}
 	}
 }
