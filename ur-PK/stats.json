@@ -1,7 +1,7 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"title": "Stats",
-	"description": "Some of our statistics displayed below.",
-	"server": "Server Stats",
-	"bot": "Bot Stats"
+	"noContextMenu": "یہ کمانڈ سیاق و سباق کے مینیو میں شامل نہیں کی جا سکتی۔",
+	"title": "اعداد و شمار",
+	"description": "ہمارے کچھ اعداد و شمار نیچے دکھائے گئے ہیں۔",
+	"server": "سرور کے اعداد و شمار",
+	"bot": "بوٹ کے اعداد و شمار"
 }
