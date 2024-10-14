@@ -1,18 +1,18 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"notEnabled": "This feature is not enabled for your server.",
-	"invalid_streamer": "The streamer you entered is invalid. Please try again.",
-	"failed_leaderboard": "Failed to load leaderboard. Please try again.",
-	"title": "{user}'s Gifted Subscribers Leaderboards",
-	"timeout": "Timed out. Please try again.",
-	"footer": "For live updates, use /panel leaderboard in your chat!",
+	"noContextMenu": "Bu komut bir bağlam menüsü olamaz.",
+	"notEnabled": "Bu özellik sunucunuz için etkinleştirilmemiş.",
+	"invalid_streamer": "Girdiğiniz yayıncı geçersiz. Lütfen tekrar deneyin.",
+	"failed_leaderboard": "Puan tablosu yüklenemedi. Lütfen tekrar deneyin.",
+	"title": "{user}'ın Hediye Edilen Aboneleri Lider Tabloları",
+	"timeout": "Süre doldu. Lütfen tekrar deneyin.",
+	"footer": "Canlı güncellemeler için, sohbetinizde /panel leaderboard kullanın!",
 	"fields": {
-		"overall": "Overall",
-		"weekly": "Weekly",
-		"monthly": "Monthly"
+		"overall": "Genel",
+		"weekly": "Haftalık",
+		"monthly": "Aylık"
 	},
 	"buttons": {
-		"watch": "Watch {user} on Kick.com!"
+		"watch": "{user}'ı Kick.com'da izleyin!"
 	},
-	"gifts": "Gifts"
+	"gifts": "Hediyeler"
 }
