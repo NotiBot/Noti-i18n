@@ -1,7 +1,7 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"title": "Stats",
-	"description": "Some of our statistics displayed below.",
-	"server": "Server Stats",
-	"bot": "Bot Stats"
+	"noContextMenu": "Bu komut bir bağlam menüsünde kullanılamaz.",
+	"title": "İstatistikler",
+	"description": "Bazı istatistiklerimiz aşağıda gösterilmektedir.",
+	"server": "Sunucu İstatistikleri",
+	"bot": "Bot İstatistikleri"
 }
