@@ -1,7 +1,7 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
+	"noContextMenu": "Denne kommando kan ikke være en kontekstmenu.",
 	"title": "Stats",
-	"description": "Some of our statistics displayed below.",
-	"server": "Server Stats",
-	"bot": "Bot Stats"
+	"description": "Nogle af vores statistikker vist nedenfor.",
+	"server": "Serverstatistikker",
+	"bot": "Bot-statistikker"
 }
