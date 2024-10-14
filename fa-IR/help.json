@@ -1,18 +1,18 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"title": "Help",
-	"description": "Noti is a Discord bot that sends notifications to your server when a user goes live on Kick. It's easy to use and free!",
-	"text": "Are you a fan of getting notifications? Don't miss out on anything by inviting our bot to your server! Experience an exhilarating community, participate in captivating discussions, and have a blast. Simply click the invite button and infuse your own server with enchantment!",
+	"noContextMenu": "این فرمان نمی‌تواند یک منوی زمینه باشد.",
+	"title": "کمک",
+	"description": "Noti یک بات دیسکورد است که به سرور شما اطلاعیه ارسال می‌کند زمانی که یک کاربر در Kick به صورت زنده پخش می‌شود. استفاده از آن آسان و رایگان است!",
+	"text": "آیا از دریافت اعلان‌ها لذت می‌برید؟ با دعوت کردن بات ما به سرور خود، چیزی را از دست ندهید! تجربه یک جامعه پرانرژی، شرکت در بحث‌های جذاب و لذت بردن را تجربه کنید. فقط روی دکمه دعوت کلیک کنید و به سرور خود جادو بیفزایید!",
 	"buttons": {
-		"invite": "Invite Noti",
-		"support": "Support Server",
-		"vote": "Vote for Noti",
-		"dashboard": "Visit Dashboard",
-		"premium": "Try out Premium"
+		"invite": "دعوت Noti",
+		"support": "سرور پشتیبانی",
+		"vote": "رأی به Noti",
+		"dashboard": "بازدید از داشبورد",
+		"premium": "امتحان Premium"
 	},
 	"fields": {
-		"commands": "Commands",
-		"invite": "Invite Noti to your server",
-		"links": "Links"
+		"commands": "دستورات",
+		"invite": "Noti را به سرور خود دعوت کنید",
+		"links": "پیوندها"
 	}
 }
