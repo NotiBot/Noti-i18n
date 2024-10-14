@@ -1,8 +1,8 @@
 {
-	"notEnabled": "This feature is not enabled for your server.",
-	"noContextMenu": "This command can't be a context menu.",
-	"missing_args": "You need to specify either a channel or new message.",
-	"success": "Successfully setup welcome messages.",
-	"reset": "Successfully reset welcome messages.",
-	"noFreePlan": "Failed to find free plan on server creation."
+	"notEnabled": "Bu özellik sunucunuz için etkinleştirilmemiş.",
+	"noContextMenu": "Bu komut bir bağlam menüsü olamaz.",
+	"missing_args": "Ya bir kanal ya da yeni bir mesaj belirtmeniz gerekiyor.",
+	"success": "Başarıyla karşılama mesajları kuruldu.",
+	"reset": "Hoş geldin mesajları başarıyla sıfırlandı.",
+	"noFreePlan": "Sunucu oluşturma sırasında ücretsiz plan bulunamadı."
 }
