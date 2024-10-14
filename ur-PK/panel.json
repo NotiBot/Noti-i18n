@@ -1,27 +1,27 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"noServer": "There was an error while trying to get the server.",
-	"notEnabled": "This feature is not enabled for your server.",
-	"invalid_channel": "Channel should be text based.",
-	"invalid_permissions": "I am missing the following permissions: {permissions}.",
-	"success": "Successfully sent panel to {channel}.",
-	"invalid_username": "I couldn't find {user} on {platform}.",
-	"failed_lb": "Failed to load leaderboard.",
-	"noFreePlan": "Failed to find free plan on server creation.",
+	"noContextMenu": "یہ کمانڈ کانٹیکسٹ مینو نہیں ہو سکتی۔",
+	"noServer": "سرور حاصل کرنے کی کوشش کے دوران ایک خرابی ہوئی۔",
+	"notEnabled": "یہ خصوصیت آپ کے سرور کے لیے فعال نہیں ہے۔",
+	"invalid_channel": "چینل متن پر مبنی ہونا چاہیے۔",
+	"invalid_permissions": "مجھے درج ذیل اجازتوں کی کمی ہے: {permissions}.",
+	"success": "پینل کو کامیابی کے ساتھ {channel} پر بھیج دیا۔",
+	"invalid_username": "میں {user} کو {platform} پر نہیں ڈھونڈ سکا۔",
+	"failed_lb": "لیڈر بورڈ لوڈ کرنے میں ناکامی ہوئی۔",
+	"noFreePlan": "سرور کی تخلیق میں مفت منصوبہ تلاش کرنے میں ناکام۔",
 	"messages": {
 		"sync": {
-			"title": "Account Synchronization",
-			"description": "To ensure a seamless experience on our server, we have implemented an account linking system and role synchronization between {platform} and Discord. Please use the buttons below to link your account.\n\n> **Note:** If you have already linked your account, you can unlink it by using {command}.",
-			"button1": "Synchronize",
-			"button2": "Need Help?"
+			"title": "اکاؤنٹ ہم آہنگی",
+			"description": "ہمارے سرور پر ایک بغیر وقفہ تجربہ یقینی بنانے کے لیے، ہم نے {platform} اور Discord کے درمیان اکاؤنٹ لنکنگ سسٹم اور رول ہم آہنگی نافذ کی ہے۔ براہ کرم اپنے اکاؤنٹ کو لنک کرنے کے لیے نیچے دیے گئے بٹن استعمال کریں۔\n\n> **نوٹ:** اگر آپ نے پہلے ہی اپنا اکاؤنٹ لنک کر لیا ہے، تو آپ اسے {command} استعمال کرکے اَن لنک کر سکتے ہیں۔",
+			"button1": "ہم آہنگ کریں",
+			"button2": "مدد چاہیے؟"
 		},
 		"leaderboard": {
-			"weekly": "Weekly",
-			"monthly": "Monthly",
-			"overall": "Overall",
-			"author": "Gifted Subscribers Leaderboards",
-			"last_updated": "Last Updated",
-			"watch": "Watch {user} on {platform}!"
+			"weekly": "ہفتہ وار",
+			"monthly": "ماہانہ",
+			"overall": "مجموعی طور پر",
+			"author": "گفٹڈ سبسکرائبرز لیڈربورڈز",
+			"last_updated": "آخری تازہ کاری",
+			"watch": "{user} کو {platform} پر دیکھیں!"
 		}
 	}
 }
