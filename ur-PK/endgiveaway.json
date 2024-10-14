@@ -1,0 +1,10 @@
+{
+	"notGiveawayMessage": "This message is not a giveaway.",
+	"notFound": "Giveaway not found.",
+	"messageNotFound": "Giveaway message not found.",
+	"noEntries": "There are no entries in this giveaway.",
+	"noCluster": "I couldn't figure out which cluster this giveaway is in.",
+	"alreadyEnded": "This giveaway has already ended.",
+	"ended": "The giveaway has ended.",
+	"failed": "Failed to end the giveaway."
+}

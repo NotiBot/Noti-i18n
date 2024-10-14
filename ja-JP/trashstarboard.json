@@ -1,0 +1,4 @@
+{
+	"notStarboardMessage": "This message is not on the starboard.",
+	"trashed": "That message wont be shown on the starboard anymore, [{perms}, and it was deleted., but I couldn't delete it.]"
+}
