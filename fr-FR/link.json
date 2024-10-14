@@ -1,38 +1,38 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"noServer": "Couldn't find this server in our database.",
+	"noContextMenu": "Cette commande ne peut pas être un menu contextuel.",
+	"noServer": "Échec de trouver ce serveur dans notre base de données.",
 	"buttons": {
-		"chatroom": "Open Chatroom",
-		"help": "Need Help?",
-		"confirm": "Confirm Account"
+		"chatroom": "Ouvrir le salon de discussion",
+		"help": "Besoin d'aide ?",
+		"confirm": "Confirmer le compte"
 	},
-	"title": "Linking with {name}!",
-	"desc": "This is a command to allow you to link your {name} account with discord.",
-	"done": "That's it! - It may take up to a few seconds to process.",
+	"title": "Lié avec {name}!",
+	"desc": "Ceci est une commande pour vous permettre de lier votre compte {name} avec discord.",
+	"done": "C'est tout ! - Cela peut prendre jusqu'à quelques secondes pour être traité.",
 	"steps": {
 		"kick": {
-			"0": "Steps",
-			"1": "Copy this code",
-			"2": "Visit {link} or click the button below",
-			"3": "Paste the code in the chat"
+			"0": "Étapes",
+			"1": "Copiez ce code",
+			"2": "Visitez {link} ou cliquez sur le bouton ci-dessous",
+			"3": "Coller le code dans le chat"
 		},
 		"rumble": {
-			"0": "Steps",
-			"1": "Visit {link} and copy the API url",
-			"2": "Click the button below and paste the API url"
+			"0": "Étapes",
+			"1": "Visitez {link} et copiez le lien de l'API",
+			"2": "Cliquez sur le bouton ci-dessous et collez l'URL de l'API"
 		}
 	},
-	"timeout": "Timed out. Please try again.",
+	"timeout": "Mise en pause. Veuillez réessayer.",
 	"success": "You have successfully connected your account with {name}!",
 	"success_user": "Successfully connected {user} account with {name}!",
 	"reset": "You have successfully reset your account Synchronization with {name}!",
-	"error": "Something went wrong while trying to link {name}. Please try again later.",
-	"user_not_found_db": "We could not find a user in our database with that ID.",
-	"failed_to_fetch": "Failed to fetch data from {name}.",
-	"user_not_found": "We could not find your linked account on {name}.",
-	"already_connected": "That account is already connected to a Discord account.",
-	"twitch": "To synchronize your Twitch account, please visit [this link]({link}) and follow the instructions.",
-	"invalid_url": "Invalid URL. Please make sure you are using the correct URL.",
-	"already_linked": "This account is already linked with {name}.",
-	"not_found": "Available socials are {socials}."
+	"error": "Une erreur s'est produite lors en essayant de lier {name}. S'il te plaît Réessayez plus tard.",
+	"user_not_found_db": "Nous n'avons pas trouvé un utilisateur dans notre base de données avec cet identifiant.",
+	"failed_to_fetch": "Impossible de récupérer les données depuis {name}.",
+	"user_not_found": "Nous n'avons pas trouvé votre compte lié sur {name}.",
+	"already_connected": "Ce compte est déjà connecté à un compte Discord.",
+	"twitch": "Pour synchroniser votre compte Twitch, veuillez visiter [ce lien] ({link}) et suivre les instructions.",
+	"invalid_url": "URL invalide. Veuillez vous assurer que vous utilisez l'URL correcte.",
+	"already_linked": "Ce compte est déjà lié à {name}.",
+	"not_found": "Les sociaux disponibles sont {socials}."
 }
