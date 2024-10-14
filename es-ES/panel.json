@@ -1,27 +1,27 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"noServer": "There was an error while trying to get the server.",
-	"notEnabled": "This feature is not enabled for your server.",
-	"invalid_channel": "Channel should be text based.",
-	"invalid_permissions": "I am missing the following permissions: {permissions}.",
-	"success": "Successfully sent panel to {channel}.",
-	"invalid_username": "I couldn't find {user} on {platform}.",
-	"failed_lb": "Failed to load leaderboard.",
-	"noFreePlan": "Failed to find free plan on server creation.",
+	"noContextMenu": "Este comando no puede ser un menú contextual.",
+	"noServer": "Ha habido un error al tratar de obtener el servidor.",
+	"notEnabled": "Esta característica no está habilitada en tu servidor.",
+	"invalid_channel": "El canal debe ser de tipo texto.",
+	"invalid_permissions": "Me faltan los siguientes permisos: {permissions}.",
+	"success": "Panel enviado correctamente al canal {channel}.",
+	"invalid_username": "No pude encontrar a {user} en {platform}.",
+	"failed_lb": "No se pudo cargar el tablero de clasificación.",
+	"noFreePlan": "No se pudo encontrar un plan gratuito al crear el servidor.",
 	"messages": {
 		"sync": {
-			"title": "Account Synchronization",
-			"description": "To ensure a seamless experience on our server, we have implemented an account linking system and role synchronization between {platform} and Discord. Please use the buttons below to link your account.\n\n> **Note:** If you have already linked your account, you can unlink it by using {command}.",
-			"button1": "Synchronize",
-			"button2": "Need Help?"
+			"title": "Account Syncronization",
+			"description": "Para garantizar una experiencia fluida en nuestro servidor, hemos implementado un sistema de vinculación de cuentas y sincronización de roles entre {platform} y Discord. Por favor, usa los botones a continuación para vincular tu cuenta.\n\n> **Nota:** Si ya has vinculado tu cuenta, puedes desvincularla usando {command}.",
+			"button1": "Syncronize",
+			"button2": "¿Necesitas ayuda?"
 		},
 		"leaderboard": {
-			"weekly": "Weekly",
-			"monthly": "Monthly",
-			"overall": "Overall",
-			"author": "Gifted Subscribers Leaderboards",
-			"last_updated": "Last Updated",
-			"watch": "Watch {user} on {platform}!"
+			"weekly": "Semanal",
+			"monthly": "Mensual",
+			"overall": "General",
+			"author": "Tabla de clasificación de suscripciones regaladas",
+			"last_updated": "Última actualización",
+			"watch": "¡Ve a mirar a {user} en {platform}!"
 		}
 	}
 }
