@@ -1,8 +1,8 @@
 {
-	"notEnabled": "This feature is not enabled for your server.",
-	"noContextMenu": "This command can't be a context menu.",
-	"missing_args": "You need to specify either a channel or new message.",
-	"success": "Successfully setup welcome messages.",
-	"reset": "Successfully reset welcome messages.",
-	"noFreePlan": "Failed to find free plan on server creation."
+	"notEnabled": "این ویژگی برای سرور شما فعال نیست.",
+	"noContextMenu": "این دستور نمی‌تواند یک منوی زمینه باشد.",
+	"missing_args": "شما باید یا یک کانال یا یک پیام جدید را مشخص کنید.",
+	"success": "پیام‌های خوشامدگویی با موفقیت تنظیم شدند.",
+	"reset": "پیام‌های خوش‌آمدگویی با موفقیت بازنشانی شدند.",
+	"noFreePlan": "در پیدا کردن پلن رایگان هنگام ایجاد سرور ناموفق بود."
 }
