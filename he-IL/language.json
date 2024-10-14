@@ -1,6 +1,6 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"languageChanged": "Language successfully changed to {language}.",
-	"noServer": "Selecting server is only possible if you run a command from a server.",
-	"noPerms": "You don't have {perm} permission to use this command."
+	"noContextMenu": "פקודה זו לא יכולה להיות תפריט הקשר.",
+	"languageChanged": "השפה שונתה בהצלחה ל-{language}.",
+	"noServer": "בחירת שרת אפשרית רק אם אתה מפעיל פקודה משרת.",
+	"noPerms": "אין לך הרשאת {perm} להשתמש בפקודה זו."
 }
