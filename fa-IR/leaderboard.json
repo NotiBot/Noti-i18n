@@ -1,18 +1,18 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"notEnabled": "This feature is not enabled for your server.",
-	"invalid_streamer": "The streamer you entered is invalid. Please try again.",
-	"failed_leaderboard": "Failed to load leaderboard. Please try again.",
-	"title": "{user}'s Gifted Subscribers Leaderboards",
-	"timeout": "Timed out. Please try again.",
-	"footer": "For live updates, use /panel leaderboard in your chat!",
+	"noContextMenu": "این فرمان نمی‌تواند یک منوی زمینه باشد.",
+	"notEnabled": "این قابلیت برای سرور شما فعال نیست.",
+	"invalid_streamer": "استریمر وارد شده نامعتبر است. لطفاً دوباره تلاش کنید.",
+	"failed_leaderboard": "بارگذاری جدول رتبه‌بندی با شکست مواجه شد. لطفاً دوباره تلاش کنید.",
+	"title": "جدول رتبه‌بندی مشترکین هدیه داده شده {user}",
+	"timeout": "زمان پایان یافت. لطفاً دوباره تلاش کنید.",
+	"footer": "برای به‌روزرسانی‌های زنده، از /panel leaderboard در چت خود استفاده کنید!",
 	"fields": {
-		"overall": "Overall",
-		"weekly": "Weekly",
-		"monthly": "Monthly"
+		"overall": "کلی",
+		"weekly": "هفتگی",
+		"monthly": "ماهانه"
 	},
 	"buttons": {
-		"watch": "Watch {user} on Kick.com!"
+		"watch": "{user} را در Kick.com تماشا کنید!"
 	},
-	"gifts": "Gifts"
+	"gifts": "هدایا"
 }
