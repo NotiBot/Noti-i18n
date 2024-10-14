@@ -1,18 +1,18 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"notEnabled": "This feature is not enabled for your server.",
-	"invalid_streamer": "The streamer you entered is invalid. Please try again.",
-	"failed_leaderboard": "Failed to load leaderboard. Please try again.",
-	"title": "{user}'s Gifted Subscribers Leaderboards",
-	"timeout": "Timed out. Please try again.",
-	"footer": "For live updates, use /panel leaderboard in your chat!",
+	"noContextMenu": "Această comandă nu poate fi un meniu contextual.",
+	"notEnabled": "Această funcție nu este activată pentru serverul tău.",
+	"invalid_streamer": "Streamerul pe care l-ați introdus este invalid. Vă rugăm să încercați din nou.",
+	"failed_leaderboard": "Nu s-a putut încărca clasamentul. Vă rugăm să încercați din nou.",
+	"title": "Clasamentul Abonaților Dăruiți de {user}",
+	"timeout": "A expirat. Vă rugăm să încercați din nou.",
+	"footer": "Pentru actualizări în timp real, folosește /panel leaderboard în chatul tău!",
 	"fields": {
-		"overall": "Overall",
-		"weekly": "Weekly",
-		"monthly": "Monthly"
+		"overall": "Per total",
+		"weekly": "Săptămânal",
+		"monthly": "Lunar"
 	},
 	"buttons": {
-		"watch": "Watch {user} on Kick.com!"
+		"watch": "Urmărește {user} pe Kick.com!"
 	},
-	"gifts": "Gifts"
+	"gifts": "Cadouri"
 }
