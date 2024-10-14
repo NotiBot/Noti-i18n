@@ -1,27 +1,27 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"noServer": "There was an error while trying to get the server.",
-	"notEnabled": "This feature is not enabled for your server.",
-	"invalid_channel": "Channel should be text based.",
-	"invalid_permissions": "I am missing the following permissions: {permissions}.",
-	"success": "Successfully sent panel to {channel}.",
-	"invalid_username": "I couldn't find {user} on {platform}.",
-	"failed_lb": "Failed to load leaderboard.",
-	"noFreePlan": "Failed to find free plan on server creation.",
+	"noContextMenu": "Cette commande ne peut pas être un menu contextuel.",
+	"noServer": "Une erreur est survenue lors de la tentative de récupérer le serveur.",
+	"notEnabled": "Cette fonctionnalité n'est pas activée pour votre serveur.",
+	"invalid_channel": "Le salon doit être textuel.",
+	"invalid_permissions": "Il me manque les autorisations suivantes : {permissions}.",
+	"success": "Panneau envoyé avec succès à {channel}.",
+	"invalid_username": "Je n'ai pas pu trouver {user} sur {platform}.",
+	"failed_lb": "Échec du chargement du classement.",
+	"noFreePlan": "Échec de trouver un plan gratuit sur la création du serveur.",
 	"messages": {
 		"sync": {
-			"title": "Account Synchronization",
-			"description": "To ensure a seamless experience on our server, we have implemented an account linking system and role synchronization between {platform} and Discord. Please use the buttons below to link your account.\n\n> **Note:** If you have already linked your account, you can unlink it by using {command}.",
-			"button1": "Synchronize",
-			"button2": "Need Help?"
+			"title": "Account Syncronization",
+			"description": "Pour garantir une expérience fluide sur notre serveur, nous avons mis en place un système de liaison de compte et de synchronisation des rôles entre Kick et Discord. Veuillez utiliser les boutons ci-dessous pour lier votre compte.\n\n> **Note:** Si vous avez déjà lié votre compte, vous pouvez le désynchroniser en utilisant {command}.",
+			"button1": "Syncronize",
+			"button2": "Besoin d'aide ?"
 		},
 		"leaderboard": {
-			"weekly": "Weekly",
-			"monthly": "Monthly",
-			"overall": "Overall",
-			"author": "Gifted Subscribers Leaderboards",
-			"last_updated": "Last Updated",
-			"watch": "Watch {user} on {platform}!"
+			"weekly": "Hebdomadaire",
+			"monthly": "Mensuel",
+			"overall": "Globale",
+			"author": "Classement des abonnements offerts",
+			"last_updated": "Dernière mise à jour",
+			"watch": "Regarde {user} sûr {platform}!"
 		}
 	}
 }

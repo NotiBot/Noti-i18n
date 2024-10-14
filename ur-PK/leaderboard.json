@@ -1,18 +1,18 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"notEnabled": "This feature is not enabled for your server.",
-	"invalid_streamer": "The streamer you entered is invalid. Please try again.",
-	"failed_leaderboard": "Failed to load leaderboard. Please try again.",
-	"title": "{user}'s Gifted Subscribers Leaderboards",
-	"timeout": "Timed out. Please try again.",
-	"footer": "For live updates, use /panel leaderboard in your chat!",
+	"noContextMenu": "اس کمانڈ کو سیاق و سباق کے مینو کے طور پر استعمال نہیں کیا جا سکتا۔",
+	"notEnabled": "یہ فیچر آپ کے سرور کے لیے فعال نہیں ہے۔",
+	"invalid_streamer": "آپ نے جو اسٹریمر داخل کیا ہے وہ غیر درست ہے۔ براہ کرم دوبارہ کوشش کریں۔",
+	"failed_leaderboard": "لیڈر بورڈ کو لوڈ کرنے میں ناکامی ہوئی۔ براہ کرم دوبارہ کوشش کریں۔",
+	"title": "{user} کے تحفے میں دیے گئے سبسکرائبرز کی لیڈربورڈز",
+	"timeout": "وقت ختم ہوگیا۔ براہ کرم دوبارہ کوشش کریں۔",
+	"footer": "لائیو اپ ڈیٹس کے لیے، اپنے چیٹ میں /panel leaderboard استعمال کریں!",
 	"fields": {
-		"overall": "Overall",
-		"weekly": "Weekly",
-		"monthly": "Monthly"
+		"overall": "مجموعی طور پر",
+		"weekly": "ہفتہ وار",
+		"monthly": "ماہانہ"
 	},
 	"buttons": {
-		"watch": "Watch {user} on Kick.com!"
+		"watch": "{user} کو Kick.com پر دیکھیں!"
 	},
-	"gifts": "Gifts"
+	"gifts": "تحفے"
 }

@@ -1,8 +1,8 @@
 {
-	"notEnabled": "This feature is not enabled for your server.",
-	"noContextMenu": "This command can't be a context menu.",
-	"missing_args": "You need to specify either a channel or new message.",
-	"success": "Successfully setup welcome messages.",
-	"reset": "Successfully reset welcome messages.",
-	"noFreePlan": "Failed to find free plan on server creation."
+	"notEnabled": "Această funcție nu este activată pentru serverul tău.",
+	"noContextMenu": "Această comandă nu poate fi un meniu contextual.",
+	"missing_args": "Trebuie să specifici fie un canal, fie un mesaj nou.",
+	"success": "Mesajele de bun venit au fost configurate cu succes.",
+	"reset": "Ai resetat cu succes mesajele de bun venit.",
+	"noFreePlan": "Nu a fost găsit un plan gratuit la crearea serverului."
 }

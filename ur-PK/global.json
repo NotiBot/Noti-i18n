@@ -1,13 +1,13 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"error": "An error occurred while executing this command.",
-	"interaction_timeout": "The interaction timed out.",
-	"no_premium": "We're sorry, but this command is only available for premium servers. To learn more about premium [click here]({link}).",
+	"noContextMenu": "یہ کمانڈ سیاق و سباق مینو میں نہیں ہو سکتی۔",
+	"error": "اس کمانڈ پر عمل درآمد کرتے وقت ایک غلطی پیش آئی۔",
+	"interaction_timeout": "تفاعل کا وقت ختم ہو گیا۔",
+	"no_premium": "ہم معذرت خواہ ہیں، لیکن یہ کمانڈ صرف پریمیم سرورز کے لیے دستیاب ہے۔ پریمیم کے بارے میں مزید جاننے کے لیے [یہاں کلک کریں]({link}).",
 	"words": {
-		"support": "Support Server",
-		"invite": "Invite Noti",
+		"support": "سپورٹ سرور",
+		"invite": "Noti کو دعوت دیں",
 		"none": "None",
-		"yes": "Yes",
-		"no": "No"
+		"yes": "جی ہاں",
+		"no": "نہیں"
 	}
 }

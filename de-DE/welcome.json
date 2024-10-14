@@ -1,8 +1,8 @@
 {
-	"notEnabled": "This feature is not enabled for your server.",
-	"noContextMenu": "This command can't be a context menu.",
-	"missing_args": "You need to specify either a channel or new message.",
-	"success": "Successfully setup welcome messages.",
-	"reset": "Successfully reset welcome messages.",
-	"noFreePlan": "Failed to find free plan on server creation."
+	"notEnabled": "Diese Funktion ist für Ihren Server nicht aktiviert.",
+	"noContextMenu": "Dieser Befehl kann kein Kontextmenü sein.",
+	"missing_args": "Du musst entweder einen Kanal oder eine neue Nachricht angeben.",
+	"success": "Willkommensnachrichten erfolgreich eingerichtet.",
+	"reset": "Willkommensnachrichten erfolgreich zurückgesetzt.",
+	"noFreePlan": "Fehler: Konnte keinen kostenlosen Plan bei der Servererstellung finden."
 }

@@ -1,13 +1,13 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"error": "An error occurred while executing this command.",
-	"interaction_timeout": "The interaction timed out.",
-	"no_premium": "We're sorry, but this command is only available for premium servers. To learn more about premium [click here]({link}).",
+	"noContextMenu": "Bu komut bir bağlam menüsü olamaz.",
+	"error": "Bu komut çalıştırılırken bir hata oluştu.",
+	"interaction_timeout": "Etkileşim zaman aşımına uğradı.",
+	"no_premium": "Üzgünüz, ancak bu komut yalnızca premium sunucular için kullanılabilir. Premium hakkında daha fazla bilgi edinmek için [buraya tıklayın]({link}).",
 	"words": {
-		"support": "Support Server",
-		"invite": "Invite Noti",
-		"none": "None",
-		"yes": "Yes",
-		"no": "No"
+		"support": "Destek Sunucusu",
+		"invite": "Noti Davet",
+		"none": "Yok",
+		"yes": "Evet",
+		"no": "Hayır"
 	}
 }

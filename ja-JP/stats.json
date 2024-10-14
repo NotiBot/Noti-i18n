@@ -1,7 +1,7 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"title": "Stats",
-	"description": "Some of our statistics displayed below.",
-	"server": "Server Stats",
-	"bot": "Bot Stats"
+	"noContextMenu": "このコマンドはコンテキストメニューにできません。",
+	"title": "統計",
+	"description": "以下にいくつかの統計情報が表示されています。",
+	"server": "サーバー統計",
+	"bot": "Bot 統計"
 }

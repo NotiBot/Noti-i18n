@@ -1,8 +1,8 @@
 {
-	"notEnabled": "This feature is not enabled for your server.",
-	"noContextMenu": "This command can't be a context menu.",
-	"missing_args": "You need to specify either a channel or new message.",
-	"success": "Successfully setup welcome messages.",
-	"reset": "Successfully reset welcome messages.",
-	"noFreePlan": "Failed to find free plan on server creation."
+	"notEnabled": "هذه الميزة غير مفعّلة لخادمك.",
+	"noContextMenu": "لا يمكن أن يكون هذا الأمر قائمة سياق.",
+	"missing_args": "تحتاج إلى تحديد إما قناة أو رسالة جديدة.",
+	"success": "تم إعداد رسائل الترحيب بنجاح.",
+	"reset": "تم إعادة تعيين رسائل الترحيب بنجاح.",
+	"noFreePlan": "فشل في العثور على خطة مجانية عند إنشاء الخادم."
 }

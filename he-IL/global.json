@@ -1,13 +1,13 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"error": "An error occurred while executing this command.",
-	"interaction_timeout": "The interaction timed out.",
-	"no_premium": "We're sorry, but this command is only available for premium servers. To learn more about premium [click here]({link}).",
+	"noContextMenu": "פקודה זו לא יכולה להיות תפריט הקשר.",
+	"error": "אירעה שגיאה בעת ביצוע פקודה זו.",
+	"interaction_timeout": "האינטראקציה פגה.",
+	"no_premium": "אנו מצטערים, אך פקודה זו זמינה רק לשרתים פרימיום. כדי ללמוד עוד על פרימיום [לחץ כאן]({link}).",
 	"words": {
-		"support": "Support Server",
-		"invite": "Invite Noti",
-		"none": "None",
-		"yes": "Yes",
-		"no": "No"
+		"support": "שרת תמיכה",
+		"invite": "הזמן את נוטי",
+		"none": "אף אחד",
+		"yes": "כן",
+		"no": "לא"
 	}
 }

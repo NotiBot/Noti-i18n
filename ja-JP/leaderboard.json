@@ -1,18 +1,18 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"notEnabled": "This feature is not enabled for your server.",
-	"invalid_streamer": "The streamer you entered is invalid. Please try again.",
-	"failed_leaderboard": "Failed to load leaderboard. Please try again.",
-	"title": "{user}'s Gifted Subscribers Leaderboards",
-	"timeout": "Timed out. Please try again.",
-	"footer": "For live updates, use /panel leaderboard in your chat!",
+	"noContextMenu": "このコマンドはコンテキストメニューにできません。",
+	"notEnabled": "この機能はあなたのサーバーでは有効になっていません。",
+	"invalid_streamer": "入力されたストリーマーは無効です。もう一度お試しください。",
+	"failed_leaderboard": "リーダーボードの読み込みに失敗しました。もう一度お試しください。",
+	"title": "{user} のギフティッドサブスクライバーリーダーボード",
+	"timeout": "タイムアウトしました。もう一度お試しください。",
+	"footer": "ライブアップデートのためには、/panel leaderboard をチャット内で使用してください!",
 	"fields": {
-		"overall": "Overall",
-		"weekly": "Weekly",
-		"monthly": "Monthly"
+		"overall": "全体",
+		"weekly": "週間",
+		"monthly": "月間"
 	},
 	"buttons": {
-		"watch": "Watch {user} on Kick.com!"
+		"watch": "{user} を Kick.com で観よう!"
 	},
-	"gifts": "Gifts"
+	"gifts": "ギフト"
 }

@@ -1,9 +1,9 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"text": "Make a difference with just one click! Help Noti grow!",
-	"text2": "Want to help us even more? You can also add Noti to your server!",
+	"noContextMenu": "Dieser Befehl kann kein Kontextmenü sein.",
+	"text": "Mach einen Unterschied mit nur einem Klick! Hilf Noti zu wachsen!",
+	"text2": "Möchtest du uns noch mehr helfen? Du kannst Noti auch zu deinem Server hinzufügen!",
 	"buttons": {
-		"invite": "Invite Noti",
-		"vote": "Vote for Noti"
+		"invite": "Noti einladen",
+		"vote": "Stimme für Noti"
 	}
 }

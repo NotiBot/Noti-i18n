@@ -1,18 +1,18 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"notEnabled": "This feature is not enabled for your server.",
-	"invalid_streamer": "The streamer you entered is invalid. Please try again.",
-	"failed_leaderboard": "Failed to load leaderboard. Please try again.",
-	"title": "{user}'s Gifted Subscribers Leaderboards",
-	"timeout": "Timed out. Please try again.",
-	"footer": "For live updates, use /panel leaderboard in your chat!",
+	"noContextMenu": "פקודה זו אינה יכולה להיות תפריט הקשר.",
+	"notEnabled": "תכונה זו אינה זמינה עבור השרת שלך.",
+	"invalid_streamer": "הסטרימר שהזנת אינו תקין. אנא נסה שנית.",
+	"failed_leaderboard": "טעינת טבלת המובילים נכשלה. אנא נסה שוב.",
+	"title": "לוח המובילים של המנויים שהוענקו על ידי {user}",
+	"timeout": "פג תוקף. אנא נסה שוב.",
+	"footer": "לעדכונים חיים, השתמשו ב-/panel leaderboard בצ'אט שלכם!",
 	"fields": {
-		"overall": "Overall",
-		"weekly": "Weekly",
-		"monthly": "Monthly"
+		"overall": "בסך הכל",
+		"weekly": "שבועי",
+		"monthly": "חודשי"
 	},
 	"buttons": {
-		"watch": "Watch {user} on Kick.com!"
+		"watch": "צפו ב-{user} ב-Kick.com!"
 	},
-	"gifts": "Gifts"
+	"gifts": "מתנות"
 }

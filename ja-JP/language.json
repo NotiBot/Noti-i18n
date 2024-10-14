@@ -1,6 +1,6 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"languageChanged": "Language successfully changed to {language}.",
-	"noServer": "Selecting server is only possible if you run a command from a server.",
-	"noPerms": "You don't have {perm} permission to use this command."
+	"noContextMenu": "このコマンドはコンテキストメニューにできません。",
+	"languageChanged": "言語が正常に{language}に変更されました。",
+	"noServer": "サーバーの選択は、サーバーからコマンドを実行した場合にのみ可能です。",
+	"noPerms": "このコマンドを使用する{perm}権限がありません。"
 }

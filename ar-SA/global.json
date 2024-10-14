@@ -1,13 +1,13 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"error": "An error occurred while executing this command.",
-	"interaction_timeout": "The interaction timed out.",
-	"no_premium": "We're sorry, but this command is only available for premium servers. To learn more about premium [click here]({link}).",
+	"noContextMenu": "لا يمكن لهذا الأمر أن يكون في قائمة سياق.",
+	"error": "حدث خطأ أثناء تنفيذ هذا الأمر.",
+	"interaction_timeout": "انتهت مهلة التفاعل.",
+	"no_premium": "نحن آسفون، لكن هذا الأمر متاح فقط للخوادم الممتازة. لمعرفة المزيد عن الممتازة [انقر هنا]({link}).",
 	"words": {
-		"support": "Support Server",
-		"invite": "Invite Noti",
-		"none": "None",
-		"yes": "Yes",
-		"no": "No"
+		"support": "خادم الدعم",
+		"invite": "دعوة Noti",
+		"none": "لا شيء",
+		"yes": "نعم",
+		"no": "لا"
 	}
 }

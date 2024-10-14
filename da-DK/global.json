@@ -1,13 +1,13 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"error": "An error occurred while executing this command.",
-	"interaction_timeout": "The interaction timed out.",
-	"no_premium": "We're sorry, but this command is only available for premium servers. To learn more about premium [click here]({link}).",
+	"noContextMenu": "Denne kommando kan ikke være en kontekstmenu.",
+	"error": "Der opstod en fejl under udførelsen af denne kommando.",
+	"interaction_timeout": "Interaktionen udløb.",
+	"no_premium": "Beklager, men denne kommando er kun tilgængelig for premium-servere. For at lære mere om premium [klik her]({link}).",
 	"words": {
-		"support": "Support Server",
-		"invite": "Invite Noti",
-		"none": "None",
-		"yes": "Yes",
-		"no": "No"
+		"support": "Supportserver",
+		"invite": "Inviter Noti",
+		"none": "Ingen",
+		"yes": "Ja",
+		"no": "Nej"
 	}
 }

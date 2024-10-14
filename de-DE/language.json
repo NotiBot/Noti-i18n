@@ -1,6 +1,6 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"languageChanged": "Language successfully changed to {language}.",
-	"noServer": "Selecting server is only possible if you run a command from a server.",
-	"noPerms": "You don't have {perm} permission to use this command."
+	"noContextMenu": "Dieser Befehl kann kein Kontextmenü sein.",
+	"languageChanged": "Sprache erfolgreich zu {language} geändert.",
+	"noServer": "Das Auswählen eines Servers ist nur möglich, wenn Sie einen Befehl von einem Server ausführen.",
+	"noPerms": "Sie haben keine {perm} Berechtigung, um diesen Befehl zu verwenden."
 }

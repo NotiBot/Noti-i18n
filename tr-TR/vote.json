@@ -1,9 +1,9 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"text": "Make a difference with just one click! Help Noti grow!",
-	"text2": "Want to help us even more? You can also add Noti to your server!",
+	"noContextMenu": "Bu komut bir bağlam menüsü olamaz.",
+	"text": "Tek bir tıkla fark yarat! Noti'nin büyümesine yardım et!",
+	"text2": "Bize daha fazla yardım etmek ister misiniz? Noti'yi sunucunuza da ekleyebilirsiniz!",
 	"buttons": {
-		"invite": "Invite Noti",
-		"vote": "Vote for Noti"
+		"invite": "Noti'yi Davet Et",
+		"vote": "Noti için Oy Ver"
 	}
 }

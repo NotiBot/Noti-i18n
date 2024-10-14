@@ -1,8 +1,8 @@
 {
-	"notEnabled": "This feature is not enabled for your server.",
-	"noContextMenu": "This command can't be a context menu.",
-	"missing_args": "You need to specify either a channel or new message.",
-	"success": "Successfully setup welcome messages.",
-	"reset": "Successfully reset welcome messages.",
-	"noFreePlan": "Failed to find free plan on server creation."
+	"notEnabled": "یہ خصوصیت آپ کے سرور کے لیے فعال نہیں ہے۔",
+	"noContextMenu": "یہ کمانڈ سیاق و سباق مینو نہیں ہو سکتی۔",
+	"missing_args": "آپ کو یا تو ایک چینل یا نیا پیغام بتانے کی ضرورت ہے۔",
+	"success": "خوش آمدیدی پیغامات کو کامیابی سے ترتیب دیا گیا۔",
+	"reset": "استقبال کے پیغامات کو کامیابی کے ساتھ ری سیٹ کیا گیا۔",
+	"noFreePlan": "سرور کی تخلیق پر مفت منصوبہ تلاش کرنے میں ناکامی ہوئی۔"
 }

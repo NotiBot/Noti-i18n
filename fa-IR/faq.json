@@ -1,9 +1,9 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
+	"noContextMenu": "این فرمان نمی‌تواند یک منوی زمینه باشد.",
 	"no_results": {
-		"title": "Noti FAQ Form",
-		"label": "What is your question?",
-		"placeholder": "How do I..."
+		"title": "فرم سوالات متداول Noti",
+		"label": "سوال شما چیست؟",
+		"placeholder": "چگونه من..."
 	},
-	"no_results_text": "We couldn't find an answer to your question. Try selecing \"Ask a Question\" to submit your question to our support team."
+	"no_results_text": "ما نتوانستیم پاسخی برای سوال شما پیدا کنیم. سعی کنید \"پرسیدن سوال\" را انتخاب کنید تا سوال خود را به تیم پشتیبانی ما ارسال کنید."
 }

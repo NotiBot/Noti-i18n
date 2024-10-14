@@ -1,27 +1,27 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"noServer": "There was an error while trying to get the server.",
-	"notEnabled": "This feature is not enabled for your server.",
-	"invalid_channel": "Channel should be text based.",
-	"invalid_permissions": "I am missing the following permissions: {permissions}.",
-	"success": "Successfully sent panel to {channel}.",
-	"invalid_username": "I couldn't find {user} on {platform}.",
-	"failed_lb": "Failed to load leaderboard.",
-	"noFreePlan": "Failed to find free plan on server creation.",
+	"noContextMenu": "פקודה זו לא יכולה להיות תפריט הקשר.",
+	"noServer": "אירעה שגיאה בעת ניסיון לקבל את השרת.",
+	"notEnabled": "תכונה זו אינה זמינה עבור השרת שלך.",
+	"invalid_channel": "הערוץ צריך להיות מבוסס טקסט.",
+	"invalid_permissions": "חסרות לי ההרשאות הבאות: {permissions}.",
+	"success": "הלוח נשלח בהצלחה אל {channel}.",
+	"invalid_username": "לא הצלחתי למצוא את {user} ב-{platform}.",
+	"failed_lb": "טעינת לוח המובילים נכשלה.",
+	"noFreePlan": "לא נמצאה תוכנית חינמית בעת יצירת שרת.",
 	"messages": {
 		"sync": {
-			"title": "Account Synchronization",
-			"description": "To ensure a seamless experience on our server, we have implemented an account linking system and role synchronization between {platform} and Discord. Please use the buttons below to link your account.\n\n> **Note:** If you have already linked your account, you can unlink it by using {command}.",
-			"button1": "Synchronize",
-			"button2": "Need Help?"
+			"title": "סנכרון חשבונות",
+			"description": "כדי להבטיח חוויה חלקה בשרת שלנו, יישמנו מערכת לקישור חשבונות וסנכרון תפקידים בין {platform} לדיסקורד. אנא השתמשו בכפתורים למטה כדי לקשר את חשבונכם.\n\n> **הערה:** אם כבר קישרתם את חשבונכם, תוכלו לנתק אותו באמצעות {command}.",
+			"button1": "סנכרן",
+			"button2": "צריכים עזרה?"
 		},
 		"leaderboard": {
-			"weekly": "Weekly",
-			"monthly": "Monthly",
-			"overall": "Overall",
-			"author": "Gifted Subscribers Leaderboards",
-			"last_updated": "Last Updated",
-			"watch": "Watch {user} on {platform}!"
+			"weekly": "שבועי",
+			"monthly": "חודשי",
+			"overall": "כללי",
+			"author": "לוח מובילי מנויים במתנה",
+			"last_updated": "עודכן לאחרונה",
+			"watch": "צפו ב-{user} ב-{platform}!"
 		}
 	}
 }

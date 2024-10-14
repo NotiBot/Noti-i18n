@@ -1,12 +1,12 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"noErrors": "Our systems did not log any irregularities in the last 24 hours for this server.",
-	"title": "Server Error Logs",
-	"tooManyErrors": "Our systems have logged too many irregularities in the last 24 hours for this server. And we can't show them all here. Please contact us by clicking the button below.",
-	"response_exited": "Successfully exited the menu.",
-	"support": "Contact Support",
-	"cleared": "Error logs have been cleared.",
-	"noServer": "This server could not be found.",
-	"devOnly": "Only developers can specify a server.",
+	"noContextMenu": "Cette commande ne peut pas être un menu contextuel.",
+	"noErrors": "Aucune irrégularité n'a été enregistrée par nos systèmes au cours des dernières 24 heures pour ce serveur.",
+	"title": "Journaux d'erreurs du serveur",
+	"tooManyErrors": "Nos systèmes ont enregistré trop d'irrégularités au cours des dernières 24 heures pour ce serveur. Et nous ne pouvons pas toutes les afficher ici. Veuillez nous contacter en cliquant sur le bouton ci-dessous.",
+	"response_exited": "Menu quitté avec succès.",
+	"support": "Contacter le support",
+	"cleared": "Les logs d'erreurs ont été effacés.",
+	"noServer": "Ce serveur n'a pas pu être trouvé.",
+	"devOnly": "Seuls les développeurs peuvent spécifier un serveur.",
 	"view_here": "You can view all the irregularities on our dashboard by clicking [here]({url})."
 }
