@@ -1,27 +1,27 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"noServer": "There was an error while trying to get the server.",
-	"notEnabled": "This feature is not enabled for your server.",
-	"invalid_channel": "Channel should be text based.",
-	"invalid_permissions": "I am missing the following permissions: {permissions}.",
-	"success": "Successfully sent panel to {channel}.",
-	"invalid_username": "I couldn't find {user} on {platform}.",
-	"failed_lb": "Failed to load leaderboard.",
-	"noFreePlan": "Failed to find free plan on server creation.",
+	"noContextMenu": "このコマンドはコンテキストメニューにできません。",
+	"noServer": "サーバーの取得中にエラーが発生しました。",
+	"notEnabled": "この機能はお使いのサーバーでは有効化されていません。",
+	"invalid_channel": "チャンネルはテキストベースであるべきです。",
+	"invalid_permissions": "以下の権限がありません: {permissions}.",
+	"success": "{channel}へのパネルの送信に成功しました。",
+	"invalid_username": "{user}を{platform}で見つけることができませんでした。",
+	"failed_lb": "リーダーボードの読み込みに失敗しました。",
+	"noFreePlan": "サーバー作成時に無料プランが見つかりませんでした。",
 	"messages": {
 		"sync": {
-			"title": "Account Synchronization",
-			"description": "To ensure a seamless experience on our server, we have implemented an account linking system and role synchronization between {platform} and Discord. Please use the buttons below to link your account.\n\n> **Note:** If you have already linked your account, you can unlink it by using {command}.",
-			"button1": "Synchronize",
-			"button2": "Need Help?"
+			"title": "アカウント同期",
+			"description": "サーバーでのシームレスな体験を確保するために、{platform}とDiscord間のアカウント連携システムおよび役職同期を実装しました。以下のボタンを使用してアカウントを連携してください。\n\n> **注:** すでにアカウントを連携している場合は、{command}を使用して連携を解除できます。",
+			"button1": "同期する",
+			"button2": "お困りですか?"
 		},
 		"leaderboard": {
-			"weekly": "Weekly",
-			"monthly": "Monthly",
-			"overall": "Overall",
-			"author": "Gifted Subscribers Leaderboards",
-			"last_updated": "Last Updated",
-			"watch": "Watch {user} on {platform}!"
+			"weekly": "週刊",
+			"monthly": "月次",
+			"overall": "全体",
+			"author": "ギフトされたサブスクライバーズリーダーボード",
+			"last_updated": "最終更新",
+			"watch": "{user}を{platform}で視聴!"
 		}
 	}
 }
