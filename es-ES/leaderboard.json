@@ -1,18 +1,18 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"notEnabled": "This feature is not enabled for your server.",
-	"invalid_streamer": "The streamer you entered is invalid. Please try again.",
-	"failed_leaderboard": "Failed to load leaderboard. Please try again.",
-	"title": "{user}'s Gifted Subscribers Leaderboards",
-	"timeout": "Timed out. Please try again.",
-	"footer": "For live updates, use /panel leaderboard in your chat!",
+	"noContextMenu": "Este comando no puede ser un menú contextual.",
+	"notEnabled": "Esta función no está habilitada para tu servidor.",
+	"invalid_streamer": "El streamer introducido no es válido. Por favor, inténtalo de nuevo.",
+	"failed_leaderboard": "Error al cargar la tabla de clasificación. Por favor, inténtalo de nuevo.",
+	"title": "Tabla de clasificación de suscriptores regalados de {user}",
+	"timeout": "Tiempo agotado. Por favor, inténtalo de nuevo.",
+	"footer": "¡Para actualizaciones en vivo, usa /panel leaderboard en tu chat!",
 	"fields": {
-		"overall": "Overall",
-		"weekly": "Weekly",
-		"monthly": "Monthly"
+		"overall": "General",
+		"weekly": "Semanal",
+		"monthly": "Mensual"
 	},
 	"buttons": {
-		"watch": "Watch {user} on Kick.com!"
+		"watch": "¡Ve a mirar a {user} en Kick.com!"
 	},
-	"gifts": "Gifts"
+	"gifts": "Regalos"
 }
