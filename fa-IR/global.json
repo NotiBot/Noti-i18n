@@ -1,13 +1,13 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"error": "An error occurred while executing this command.",
-	"interaction_timeout": "The interaction timed out.",
-	"no_premium": "We're sorry, but this command is only available for premium servers. To learn more about premium [click here]({link}).",
+	"noContextMenu": "این فرمان نمی‌تواند یک منوی زمینه باشد.",
+	"error": "هنگام اجرای این فرمان خطایی رخ داد.",
+	"interaction_timeout": "تعامل به پایان رسید.",
+	"no_premium": "متاسفیم، اما این دستور فقط برای سرورهای ویژه در دسترس است. برای کسب اطلاعات بیشتر در مورد سرورهای ویژه [اینجا کلیک کنید]({link}).",
 	"words": {
-		"support": "Support Server",
-		"invite": "Invite Noti",
+		"support": "سرور پشتیبانی",
+		"invite": "دعوت Noti",
 		"none": "None",
-		"yes": "Yes",
-		"no": "No"
+		"yes": "بله",
+		"no": "نه"
 	}
 }
