@@ -9,13 +9,16 @@
 	"server_title": "Server Subscription",
 	"user_title": "User Subscription",
 	"server_description": "This server [{enabled}, is subscribed to Premium., is not subscribed to Premium.]\nAnd maximum of {con} concurrent streamer connections.",
+	"premium_status": "This server [{enabled}, is subscribed to Premium., is not subscribed to Premium.]",
 	"user_description": "You [{enabled}, are subscribed to Premium., are not subscribed to Premium.]",
 	"fields": {
 		"plan": "Plan Information",
-		"features": "Available Features"
+		"features": "Available Features",
+		"connections": "Concurrent Streamer Connections"
 	},
 	"footer_premium": "Thank you for supporting Noti!",
 	"footer_free": "Upgrade to Premium to unlock more features!",
+	"noFeatures": "No features available.",
 	"noTarget": "Please specify a target server ID.",
 	"alreadyOne": "You have already added premium to a server.",
 	"cooldown": "You are on cooldown, try in  {time}.",

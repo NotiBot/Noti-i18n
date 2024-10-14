@@ -1,0 +1,8 @@
+{
+	"notEnabled": "This feature is not enabled for your server.",
+	"noContextMenu": "This command can't be a context menu.",
+	"missing_args": "You need to specify either a channel or new message.",
+	"success": "Successfully setup welcome messages.",
+	"reset": "Successfully reset welcome messages.",
+	"noFreePlan": "Failed to find free plan on server creation."
+}

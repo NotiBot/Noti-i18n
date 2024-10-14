@@ -1,0 +1,12 @@
+{
+	"noContextMenu": "This command can't be a context menu.",
+	"noErrors": "Our systems did not log any irregularities in the last 24 hours for this server.",
+	"title": "Server Error Logs",
+	"tooManyErrors": "Our systems have logged too many irregularities in the last 24 hours for this server. And we can't show them all here. Please contact us by clicking the button below.",
+	"response_exited": "Successfully exited the menu.",
+	"support": "Contact Support",
+	"cleared": "Error logs have been cleared.",
+	"noServer": "This server could not be found.",
+	"devOnly": "Only developers can specify a server.",
+	"view_here": "You can view all the irregularities on our dashboard by clicking [here]({url})."
+}

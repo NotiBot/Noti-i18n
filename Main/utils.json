@@ -15,7 +15,7 @@
 	"noData": "File not found.",
 	"invalidUrl": "Invalid URL ({url}).",
 	"failedToFetch": "Failed to fetch temporary URL.",
-	"recached": "Recached URL.",
+	"reCached": "Re-Cached URL.",
 	"invalidVod": "Invalid vod ({url}).",
 	"failedToFetchVod": "Failed to fetch vod.",
 	"invalidRole": "Invalid role.",
@@ -25,5 +25,14 @@
 	"rebooting": "Rebooting..",
 	"rebooted": "Successfully rebooted.",
 	"failedToModify": "Failed to modify whitelist.",
-	"modified": "Whitelist modified."
+	"modified": "Whitelist modified.",
+	"failedToClear": "Failed to clear whitelist.",
+	"failedToClearCache": "Failed to clear cache.",
+	"clearedCache": "Cache cleared.",
+	"cleared": "Whitelist cleared.",
+	"list": "Whitelist: {list}",
+	"noStreamerData": "Couldn't fetch streamer data.",
+	"failedToYeet": "Failed to yeet.",
+	"yeeted": "Yeeted {id}.",
+	"updated": "Updated tiers."
 }

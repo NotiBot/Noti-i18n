@@ -38,5 +38,5 @@
 	"already_exists": "Streamer already exists.",
 	"private_account": "Streamer has a private account.",
 	"test_notification_sent": "Test notification has been sent.",
-	"invalid_type": "Invalid type."
+	"invalid_type": "Invalid type, or something went wrong, check /errors for more info."
 }
