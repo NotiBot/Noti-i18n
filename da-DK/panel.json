@@ -1,27 +1,27 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"noServer": "There was an error while trying to get the server.",
-	"notEnabled": "This feature is not enabled for your server.",
-	"invalid_channel": "Channel should be text based.",
-	"invalid_permissions": "I am missing the following permissions: {permissions}.",
-	"success": "Successfully sent panel to {channel}.",
-	"invalid_username": "I couldn't find {user} on {platform}.",
-	"failed_lb": "Failed to load leaderboard.",
-	"noFreePlan": "Failed to find free plan on server creation.",
+	"noContextMenu": "Denne kommando kan ikke være en kontekstmenu.",
+	"noServer": "Der opstod en fejl, mens der blev forsøgt at hente serveren.",
+	"notEnabled": "Denne funktion er ikke aktiveret for din server.",
+	"invalid_channel": "Kanalen skal være tekstbaseret.",
+	"invalid_permissions": "Jeg mangler følgende tilladelser: {permissions}.",
+	"success": "Panelet blev sendt til {channel} med succes.",
+	"invalid_username": "Jeg kunne ikke finde {user} på {platform}.",
+	"failed_lb": "Kunne ikke indlæse leaderboard.",
+	"noFreePlan": "Kunne ikke finde en gratis plan ved serveroprettelse.",
 	"messages": {
 		"sync": {
-			"title": "Account Synchronization",
-			"description": "To ensure a seamless experience on our server, we have implemented an account linking system and role synchronization between {platform} and Discord. Please use the buttons below to link your account.\n\n> **Note:** If you have already linked your account, you can unlink it by using {command}.",
-			"button1": "Synchronize",
-			"button2": "Need Help?"
+			"title": "Kontosynkronisering",
+			"description": "For at sikre en problemfri oplevelse på vores server har vi implementeret et system til kontolinking og rolesynkronisering mellem {platform} og Discord. Brug venligst knapperne nedenfor til at linke din konto.\n\n> **Bemærk:** Hvis du allerede har linket din konto, kan du ophæve linkningen ved at bruge {command}.",
+			"button1": "Synkroniser",
+			"button2": "Brug for hjælp?"
 		},
 		"leaderboard": {
-			"weekly": "Weekly",
-			"monthly": "Monthly",
-			"overall": "Overall",
-			"author": "Gifted Subscribers Leaderboards",
-			"last_updated": "Last Updated",
-			"watch": "Watch {user} on {platform}!"
+			"weekly": "Ugentlig",
+			"monthly": "Månedlig",
+			"overall": "Samlet",
+			"author": "Gaveabonnenter Leaderboards",
+			"last_updated": "Sidst opdateret",
+			"watch": "Se {user} på {platform}!"
 		}
 	}
 }
