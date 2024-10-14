@@ -7,5 +7,6 @@
 	"support": "Contact Support",
 	"cleared": "Error logs have been cleared.",
 	"noServer": "This server could not be found.",
-	"devOnly": "Only developers can specify a server."
+	"devOnly": "Only developers can specify a server.",
+	"view_here": "You can view all the irregularities on our dashboard by clicking [here]({url})."
 }
