@@ -1,27 +1,27 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"noServer": "There was an error while trying to get the server.",
-	"notEnabled": "This feature is not enabled for your server.",
-	"invalid_channel": "Channel should be text based.",
-	"invalid_permissions": "I am missing the following permissions: {permissions}.",
-	"success": "Successfully sent panel to {channel}.",
-	"invalid_username": "I couldn't find {user} on {platform}.",
-	"failed_lb": "Failed to load leaderboard.",
-	"noFreePlan": "Failed to find free plan on server creation.",
+	"noContextMenu": "این فرمان نمی‌تواند یک منوی زمینه باشد.",
+	"noServer": "در حین تلاش برای دریافت سرور، خطایی رخ داد.",
+	"notEnabled": "این قابلیت برای سرور شما فعال نشده است.",
+	"invalid_channel": "کانال باید مبتنی بر متن باشد.",
+	"invalid_permissions": "من مجوزهای زیر را ندارم: {permissions}.",
+	"success": "با موفقیت پنل به {channel} ارسال شد.",
+	"invalid_username": "نتوانستم {user} را در {platform} پیدا کنم.",
+	"failed_lb": "بارگذاری جدول امتیازات ناموفق بود.",
+	"noFreePlan": "یافتن طرح رایگان در ایجاد سرور ناموفق بود.",
 	"messages": {
 		"sync": {
-			"title": "Account Synchronization",
-			"description": "To ensure a seamless experience on our server, we have implemented an account linking system and role synchronization between {platform} and Discord. Please use the buttons below to link your account.\n\n> **Note:** If you have already linked your account, you can unlink it by using {command}.",
-			"button1": "Synchronize",
-			"button2": "Need Help?"
+			"title": "هماهنگ‌سازی حساب",
+			"description": "برای اطمینان از تجربه‌ای یکپارچه در سرور ما، سیستمی برای پیوند حساب و هماهنگ‌سازی نقش‌ها بین {platform} و دیسکورد پیاده‌سازی کرده‌ایم. لطفاً از دکمه‌های زیر برای پیوند دادن حسابتان استفاده کنید.\n\n> **توجه:** اگر قبلاً حسابتان را پیوند داده‌اید، می‌توانید با استفاده از {command} آن را لغو پیوند کنید.",
+			"button1": "همگام‌سازی",
+			"button2": "نیاز به کمک دارید؟"
 		},
 		"leaderboard": {
-			"weekly": "Weekly",
-			"monthly": "Monthly",
-			"overall": "Overall",
-			"author": "Gifted Subscribers Leaderboards",
-			"last_updated": "Last Updated",
-			"watch": "Watch {user} on {platform}!"
+			"weekly": "هفتگی",
+			"monthly": "ماهانه",
+			"overall": "کلی",
+			"author": "جدول رتبه‌بندی مشترکین هدیه‌داده‌شده",
+			"last_updated": "آخرین به‌روزرسانی",
+			"watch": "تماشای {user} در {platform}!"
 		}
 	}
 }
