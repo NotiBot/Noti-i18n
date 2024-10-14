@@ -1,8 +1,8 @@
 {
-	"notEnabled": "This feature is not enabled for your server.",
-	"noContextMenu": "This command can't be a context menu.",
-	"missing_args": "You need to specify either a channel or new message.",
-	"success": "Successfully setup welcome messages.",
-	"reset": "Successfully reset welcome messages.",
-	"noFreePlan": "Failed to find free plan on server creation."
+	"notEnabled": "Denne funktion er ikke aktiveret for din server.",
+	"noContextMenu": "Denne kommando kan ikke være en kontekstmenu.",
+	"missing_args": "Du skal specificere enten en kanal eller en ny besked.",
+	"success": "Velkomstbeskeder blev opsat med succes.",
+	"reset": "Velkomstbeskeder blev nulstillet med succes.",
+	"noFreePlan": "Det lykkedes ikke at finde en gratis plan ved serveroprettelse."
 }
