@@ -23,9 +23,9 @@
 		}
 	},
 	"timeout": "Timed out. Please try again.",
-	"success": "You have succesfully connected your account with {name}!",
-	"success_user": "Succesfully connected {user} account with {name}!",
-	"reset": "You have succesfully reset your account Synchronization with {name}!",
+	"success": "You have successfully connected your account with {name}!",
+	"success_user": "Successfully connected {user} account with {name}!",
+	"reset": "You have successfully reset your account Synchronization with {name}!",
 	"error": "Something went wrong while trying to link {name}. Please try again later.",
 	"user_not_found_db": "We could not find a user in our database with that ID.",
 	"failed_to_fetch": "Failed to fetch data from {name}.",
