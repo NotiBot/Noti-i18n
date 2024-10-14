@@ -1,7 +1,7 @@
 {
-	"noContextMenu": "This command can't be a context menu.",
-	"title": "Stats",
-	"description": "Some of our statistics displayed below.",
-	"server": "Server Stats",
-	"bot": "Bot Stats"
+	"noContextMenu": "لا يمكن أن يكون هذا الأمر قائمة سياق.",
+	"title": "إحصائيات",
+	"description": "بعض إحصائياتنا معروضة أدناه.",
+	"server": "إحصائيات الخادم",
+	"bot": "إحصائيات البوت"
 }
